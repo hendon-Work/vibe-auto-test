@@ -48,6 +48,10 @@ class GoogleSheetsReporter implements Reporter {
 
       const sheets = google.sheets({ version: 'v4', auth });
       
+      // 동적으로 첫 번째 워크시트(탭)의 이름 가져오기
+      const spreadsheetInfo = await sheets.spreadsheets.get({ spreadsheetId });
+      const firstSheetName = spreadsheetInfo.data.sheets?.[0]?.properties?.title || '시트1';
+
       // 기록할 데이터 양식
       const values = this.results.map(r => [
         r.testId,
@@ -59,16 +63,16 @@ class GoogleSheetsReporter implements Reporter {
 
       await sheets.spreadsheets.values.append({
         spreadsheetId,
-        range: 'Sheet1!A:E', // 사용자의 시트 구조(B열 지정 여부 등)에 따라 수정 필요
+        range: `'${firstSheetName}'!A:E`, // 첫 번째 시트의 A열부터 데이터 기입
         valueInputOption: 'USER_ENTERED',
         requestBody: {
           values,
         },
       });
       
-      console.log('Google Sheets 리포팅 업데이트 완료!');
-    } catch (e) {
-      console.error('Google Sheets 연동 중 에러 발생:', e);
+      console.log(`Google Sheets('${firstSheetName}') 리포팅 업데이트 완료!`);
+    } catch (e: any) {
+      console.error('Google Sheets 연동 중 에러 발생:', e.message || e);
     }
   }
 }
