@@ -1,7 +1,13 @@
 name: Playwright Automation Test
 
 on:
-  workflow_dispatch: # [테스트 시작] 버튼 (수동 실행) 트리거
+  workflow_dispatch:
+    inputs:
+      csv_file:
+        description: '실행할 CSV 파일명 (tests/ 폴더 위치 기준, 예: test-data.csv)'
+        required: true
+        default: 'test-data.csv'
+        type: string
 
 jobs:
   test:
@@ -24,6 +30,7 @@ jobs:
         GOOGLE_SPREADSHEET_ID: ${{ secrets.GOOGLE_SPREADSHEET_ID }}
         GOOGLE_CLIENT_EMAIL: ${{ secrets.GOOGLE_CLIENT_EMAIL }}
         GOOGLE_PRIVATE_KEY: ${{ secrets.GOOGLE_PRIVATE_KEY }}
+        CSV_FILE: ${{ inputs.csv_file }}
       run: npx playwright test
     
     - uses: actions/upload-artifact@v4

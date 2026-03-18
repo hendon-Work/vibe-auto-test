@@ -3,13 +3,20 @@ import { parse } from 'csv-parse/sync';
 import fs from 'fs';
 import path from 'path';
 
-const csvFilePath = path.join(__dirname, 'test-data.csv');
-const fileContent = fs.readFileSync(csvFilePath, 'utf-8');
+const csvFileName = process.env.CSV_FILE || 'test-data.csv';
+const csvFilePath = path.join(__dirname, csvFileName);
 
-const records: any[] = parse(fileContent, {
-  columns: true,
-  skip_empty_lines: true,
-});
+let records: any[] = [];
+if (fs.existsSync(csvFilePath)) {
+  const fileContent = fs.readFileSync(csvFilePath, 'utf-8');
+  records = parse(fileContent, {
+    columns: true,
+    skip_empty_lines: true,
+  });
+} else {
+  console.error(`지정한 CSV 파일을 찾을 수 없습니다: ${csvFilePath}`);
+}
+
 
 for (const record of records) {
   test(`[${record.testId}] ${record.description}`, async ({ page }) => {
