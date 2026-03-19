@@ -1,0 +1,3 @@
+testId,description,url,expectedTitle
+TC-001,Google 메인 페이지 접속,https://www.google.com,Google
+TC-002,Playwright 공식 홈페이지,https://playwright.dev/,Playwright
