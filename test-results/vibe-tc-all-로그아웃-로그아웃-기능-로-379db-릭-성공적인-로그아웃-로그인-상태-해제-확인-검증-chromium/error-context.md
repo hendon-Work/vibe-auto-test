@@ -1,0 +1,1918 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic:  
+  - text: 
+  - generic:
+    - list [ref=e3]:                  
+    - text: 
+  - banner:
+    - generic [ref=e4]:
+      - list [ref=e15]:
+        - generic [ref=e16]:
+          - listitem [ref=e17]:
+            - link "Main" [ref=e18] [cursor=pointer]:
+              - /url: /82
+          - listitem [ref=e19]:
+            - link "Keyboards" [ref=e20] [cursor=pointer]:
+              - /url: /22
+          - listitem [ref=e21]:
+            - link "Switches" [ref=e22] [cursor=pointer]:
+              - /url: /21
+          - listitem [ref=e23]:
+            - link "Keycaps" [ref=e24] [cursor=pointer]:
+              - /url: /23
+          - listitem [ref=e25]:
+            - link "Accessories" [ref=e26] [cursor=pointer]:
+              - /url: /24
+          - listitem [ref=e27]:
+            - link "Lubricants" [ref=e28] [cursor=pointer]:
+              - /url: /26
+          - listitem [ref=e29]:
+            - link "Deskpads" [ref=e30] [cursor=pointer]:
+              - /url: /25
+        - listitem [ref=e33]:
+          - generic [ref=e35] [cursor=pointer]: 
+      - generic [ref=e36]:
+        - generic [ref=e37]:
+          - generic [ref=e42]:
+            - generic [ref=e48]:
+              - link "버튼" [ref=e50] [cursor=pointer]:
+                - /url: https://discord.gg/swagkeys
+                - generic [ref=e52]: 
+              - link "버튼" [ref=e54] [cursor=pointer]:
+                - /url: https://www.instagram.com/swag_keys/
+                - generic [ref=e56]: 
+              - link "버튼" [ref=e58] [cursor=pointer]:
+                - /url: https://cafe.naver.com/swagkey
+                - generic [ref=e60]: ꄂ
+              - link "버튼" [ref=e62]:
+                - /url: ""
+                - generic [ref=e64]: 
+            - link "스웨그키 공식 온라인 스토어 스웨그키 공식 온라인 스토어 스웨그키 공식 온라인 스토어" [ref=e71] [cursor=pointer]:
+              - /url: /
+              - generic [ref=e72]: 스웨그키 공식 온라인 스토어
+              - img "스웨그키 공식 온라인 스토어" [ref=e73]
+              - img "스웨그키 공식 온라인 스토어" [ref=e74]
+            - generic [ref=e75]:
+              - link "Search Search" [ref=e83] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=e84]: Search
+                - generic [ref=e85]: Search
+              - generic [ref=e90]:
+                - link "Login" [ref=e92] [cursor=pointer]:
+                  - /url: /login?back_url=Lw%3D%3D&used_login_btn=Y
+                  - generic [ref=e93]: Login
+                - link "Register" [ref=e95] [cursor=pointer]:
+                  - /url: /site_join_pattern_choice?back_url=Lw%3D%3D
+                  - generic [ref=e96]: Register
+                - link "Cart" [ref=e98] [cursor=pointer]:
+                  - /url: /shop_cart
+                  - generic [ref=e99]: Cart
+                - link "Mypage" [ref=e101] [cursor=pointer]:
+                  - /url: /login?back_url=Lw%3D%3D&used_login_btn=Y
+                  - generic [ref=e102]: Mypage
+          - list [ref=e111]:
+            - generic [ref=e112]:
+              - listitem [ref=e113]:
+                - link "Main" [ref=e114] [cursor=pointer]:
+                  - /url: /82
+              - listitem [ref=e115]:
+                - link "Keyboards" [ref=e116] [cursor=pointer]:
+                  - /url: /22
+              - listitem [ref=e117]:
+                - link "Switches" [ref=e118] [cursor=pointer]:
+                  - /url: /21
+              - listitem [ref=e119]:
+                - link "Keycaps" [ref=e120] [cursor=pointer]:
+                  - /url: /23
+              - listitem [ref=e121]:
+                - link "Accessories" [ref=e122] [cursor=pointer]:
+                  - /url: /24
+              - listitem [ref=e123]:
+                - link "Lubricants" [ref=e124] [cursor=pointer]:
+                  - /url: /26
+              - listitem [ref=e125]:
+                - link "Deskpads" [ref=e126] [cursor=pointer]:
+                  - /url: /25
+            - listitem [ref=e129]:
+              - generic [ref=e131] [cursor=pointer]: 
+        - text:   
+  - generic [ref=e134]:
+    - generic [ref=e136]:
+      - generic [ref=e139]:
+        - link [ref=e140] [cursor=pointer]:
+          - /url: https://www.swagkey.kr/113
+        - generic [ref=e143]:
+          - heading "Evoworks - EVO80" [level=1] [ref=e144]
+          - paragraph [ref=e145]:
+            - link "제품 보러가기" [ref=e146] [cursor=pointer]:
+              - /url: https://www.swagkey.kr/113
+      - generic [ref=e149]:
+        - link [ref=e150] [cursor=pointer]:
+          - /url: https://www.swagkey.kr/114
+        - generic [ref=e153]:
+          - heading "Evoworks - EVO75" [level=1] [ref=e154]
+          - paragraph [ref=e155]:
+            - link "제품 보러가기" [ref=e156] [cursor=pointer]:
+              - /url: https://www.swagkey.kr/114
+      - generic [ref=e159]:
+        - link [ref=e160] [cursor=pointer]:
+          - /url: https://www.swagkey.kr/search?type=&keyword=dp104
+        - generic [ref=e163]:
+          - heading "TickType - DP104" [level=1] [ref=e164]
+          - paragraph [ref=e165]:
+            - link "제품 보러가기" [ref=e166] [cursor=pointer]:
+              - /url: https://www.swagkey.kr/search?type=&keyword=dp104
+      - generic [ref=e169]:
+        - link [ref=e170] [cursor=pointer]:
+          - /url: https://www.swagkey.kr/1733221419/?idx=1755
+        - generic [ref=e173]:
+          - heading "[GB] SWG - Prepress" [level=1] [ref=e174]
+          - paragraph [ref=e175]:
+            - link "제품 보러가기" [ref=e176] [cursor=pointer]:
+              - /url: https://www.swagkey.kr/1733221419/?idx=1755
+      - generic [ref=e179]:
+        - link [ref=e180] [cursor=pointer]:
+          - /url: https://www.swagkey.kr/1733221419/?idx=1744
+        - generic [ref=e183]:
+          - heading "[GB] SWG - Euler" [level=1] [ref=e184]
+          - paragraph [ref=e185]:
+            - link "제품 보러가기" [ref=e186] [cursor=pointer]:
+              - /url: https://www.swagkey.kr/1733221419/?idx=1744
+      - generic [ref=e189]:
+        - link [ref=e190] [cursor=pointer]:
+          - /url: https://www.swagkey.kr/109
+        - generic [ref=e193]:
+          - heading "Qwertykeys - NEO75 & NEO98" [level=1] [ref=e194]
+          - paragraph [ref=e195]:
+            - link "제품 보러가기" [ref=e196] [cursor=pointer]:
+              - /url: https://www.swagkey.kr/109
+      - generic [ref=e199]:
+        - link [ref=e200] [cursor=pointer]:
+          - /url: https://www.swagkey.kr/685026703/?idx=1499
+        - generic [ref=e203]:
+          - heading "Qwertykeys - NEO80 Cu" [level=1] [ref=e204]
+          - paragraph [ref=e205]:
+            - link "제품 보러가기" [ref=e206] [cursor=pointer]:
+              - /url: https://www.swagkey.kr/685026703/?idx=1499
+      - generic [ref=e209]:
+        - link [ref=e210] [cursor=pointer]:
+          - /url: https://www.swagkey.kr/97
+        - generic [ref=e213]:
+          - heading "Qwertykeys - QK101" [level=1] [ref=e214]
+          - paragraph [ref=e215]:
+            - link "제품 보러가기" [ref=e216] [cursor=pointer]:
+              - /url: https://www.swagkey.kr/97
+      - generic [ref=e219]:
+        - link [ref=e220] [cursor=pointer]:
+          - /url: https://www.swagkey.kr/113
+        - generic [ref=e223]:
+          - heading "Evoworks - EVO80" [level=1] [ref=e224]
+          - paragraph [ref=e225]:
+            - link "제품 보러가기" [ref=e226] [cursor=pointer]:
+              - /url: https://www.swagkey.kr/113
+      - generic [ref=e229]:
+        - link [ref=e230] [cursor=pointer]:
+          - /url: https://www.swagkey.kr/114
+        - generic [ref=e233]:
+          - heading "Evoworks - EVO75" [level=1] [ref=e234]
+          - paragraph [ref=e235]:
+            - link "제품 보러가기" [ref=e236] [cursor=pointer]:
+              - /url: https://www.swagkey.kr/114
+      - generic [ref=e239]:
+        - link [ref=e240] [cursor=pointer]:
+          - /url: https://www.swagkey.kr/search?type=&keyword=dp104
+        - generic [ref=e243]:
+          - heading "TickType - DP104" [level=1] [ref=e244]
+          - paragraph [ref=e245]:
+            - link "제품 보러가기" [ref=e246] [cursor=pointer]:
+              - /url: https://www.swagkey.kr/search?type=&keyword=dp104
+      - generic [ref=e249]:
+        - link [ref=e250] [cursor=pointer]:
+          - /url: https://www.swagkey.kr/1733221419/?idx=1755
+        - generic [ref=e253]:
+          - heading "[GB] SWG - Prepress" [level=1] [ref=e254]
+          - paragraph [ref=e255]:
+            - link "제품 보러가기" [ref=e256] [cursor=pointer]:
+              - /url: https://www.swagkey.kr/1733221419/?idx=1755
+    - generic:
+      - generic:  
+  - text:        
+  - main [ref=e277]:
+    - generic [ref=e278]:
+      - generic [ref=e285]:
+        - paragraph [ref=e286]:
+          - generic:
+            - strong
+        - paragraph [ref=e287]:
+          - strong [ref=e288]: NEW ARRIVALS
+      - generic [ref=e296]:
+        - generic [ref=e298]:
+          - generic [ref=e300]:
+            - link "기획전 이미지" [ref=e302] [cursor=pointer]:
+              - /url: /22/?idx=1636
+              - img "기획전 이미지" [ref=e303]
+            - link "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Cream, Oat + PP 199,000원" [ref=e306] [cursor=pointer]:
+              - /url: /22/?idx=1636
+              - generic [ref=e307]:
+                - heading "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Cream, Oat + PP" [level=2] [ref=e308]
+                - paragraph [ref=e310]: 199,000원
+          - generic [ref=e312]:
+            - link "기획전 이미지" [ref=e314] [cursor=pointer]:
+              - /url: /22/?idx=1634
+              - img "기획전 이미지" [ref=e315]
+            - link "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Spark, Oat + PP 199,000원" [ref=e318] [cursor=pointer]:
+              - /url: /22/?idx=1634
+              - generic [ref=e319]:
+                - heading "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Spark, Oat + PP" [level=2] [ref=e320]
+                - paragraph [ref=e322]: 199,000원
+          - generic [ref=e324]:
+            - link "기획전 이미지" [ref=e326] [cursor=pointer]:
+              - /url: /22/?idx=1632
+              - img "기획전 이미지" [ref=e327]
+            - link "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Scarlet, Oat + PP 199,000원" [ref=e330] [cursor=pointer]:
+              - /url: /22/?idx=1632
+              - generic [ref=e331]:
+                - heading "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Scarlet, Oat + PP" [level=2] [ref=e332]
+                - paragraph [ref=e334]: 199,000원
+          - generic [ref=e336]:
+            - link "기획전 이미지" [ref=e338] [cursor=pointer]:
+              - /url: /22/?idx=1630
+              - img "기획전 이미지" [ref=e339]
+            - link "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Nimbus, Azure + FR4 199,000원" [ref=e342] [cursor=pointer]:
+              - /url: /22/?idx=1630
+              - generic [ref=e343]:
+                - heading "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Nimbus, Azure + FR4" [level=2] [ref=e344]
+                - paragraph [ref=e346]: 199,000원
+          - generic [ref=e348]:
+            - link "기획전 이미지" [ref=e350] [cursor=pointer]:
+              - /url: /22/?idx=1628
+              - img "기획전 이미지" [ref=e351]
+            - link "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Ink, Azure + FR4 199,000원" [ref=e354] [cursor=pointer]:
+              - /url: /22/?idx=1628
+              - generic [ref=e355]:
+                - heading "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Ink, Azure + FR4" [level=2] [ref=e356]
+                - paragraph [ref=e358]: 199,000원
+          - generic [ref=e360]:
+            - link "기획전 이미지" [ref=e362] [cursor=pointer]:
+              - /url: /22/?idx=1741
+              - img "기획전 이미지" [ref=e363]
+            - link "NP-R Numpad 314,000원" [ref=e366] [cursor=pointer]:
+              - /url: /22/?idx=1741
+              - generic [ref=e367]:
+                - heading "NP-R Numpad" [level=2] [ref=e368]
+                - paragraph [ref=e370]: 314,000원
+          - generic [ref=e372]:
+            - link "기획전 이미지" [ref=e374] [cursor=pointer]:
+              - /url: /22/?idx=860
+              - img "기획전 이미지" [ref=e375]
+            - link "스웨그키 SW Transition LITE Barebone Kit 트랜지션 라이트. 29,000원" [ref=e378] [cursor=pointer]:
+              - /url: /22/?idx=860
+              - generic [ref=e379]:
+                - heading "스웨그키 SW Transition LITE Barebone Kit 트랜지션 라이트." [level=2] [ref=e380]
+                - paragraph [ref=e382]: 29,000원
+          - generic [ref=e384]:
+            - link "기획전 이미지" [ref=e386] [cursor=pointer]:
+              - /url: /22/?idx=1627
+              - img "기획전 이미지" [ref=e387]
+            - link "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Ink, Oat + PP 199,000원" [ref=e390] [cursor=pointer]:
+              - /url: /22/?idx=1627
+              - generic [ref=e391]:
+                - heading "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Ink, Oat + PP" [level=2] [ref=e392]
+                - paragraph [ref=e394]: 199,000원
+          - generic [ref=e396]:
+            - link "기획전 이미지" [ref=e398] [cursor=pointer]:
+              - /url: /22/?idx=1528
+              - img "기획전 이미지" [ref=e399]
+            - link "스웨그키 트랜지션 라이트 기판 6.25u 7u 36,000원" [ref=e402] [cursor=pointer]:
+              - /url: /22/?idx=1528
+              - generic [ref=e403]:
+                - heading "스웨그키 트랜지션 라이트 기판 6.25u 7u" [level=2] [ref=e404]
+                - paragraph [ref=e406]: 36,000원
+          - generic [ref=e408]:
+            - link "기획전 이미지" [ref=e410] [cursor=pointer]:
+              - /url: /22/?idx=1392
+              - img "기획전 이미지" [ref=e411]
+            - link "트랜지션 라이트 Alu 상부 하우징 상판 49,000원" [ref=e414] [cursor=pointer]:
+              - /url: /22/?idx=1392
+              - generic [ref=e415]:
+                - heading "트랜지션 라이트 Alu 상부 하우징 상판" [level=2] [ref=e416]
+                - paragraph [ref=e418]: 49,000원
+          - generic [ref=e420]:
+            - link "기획전 이미지" [ref=e422] [cursor=pointer]:
+              - /url: /22/?idx=1639
+              - img "기획전 이미지" [ref=e423]
+            - link "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Tyrian, Azure + FR4 199,000원" [ref=e426] [cursor=pointer]:
+              - /url: /22/?idx=1639
+              - generic [ref=e427]:
+                - heading "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Tyrian, Azure + FR4" [level=2] [ref=e428]
+                - paragraph [ref=e430]: 199,000원
+          - generic [ref=e432]:
+            - link "기획전 이미지" [ref=e434] [cursor=pointer]:
+              - /url: /22/?idx=1633
+              - img "기획전 이미지" [ref=e435]
+            - link "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Scarlet, Azure + FR4 199,000원" [ref=e438] [cursor=pointer]:
+              - /url: /22/?idx=1633
+              - generic [ref=e439]:
+                - heading "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Scarlet, Azure + FR4" [level=2] [ref=e440]
+                - paragraph [ref=e442]: 199,000원
+          - generic [ref=e444]:
+            - link "기획전 이미지" [ref=e446] [cursor=pointer]:
+              - /url: /22/?idx=1629
+              - img "기획전 이미지" [ref=e447]
+            - link "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Nimbus, Oat + PP 199,000원" [ref=e450] [cursor=pointer]:
+              - /url: /22/?idx=1629
+              - generic [ref=e451]:
+                - heading "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Nimbus, Oat + PP" [level=2] [ref=e452]
+                - paragraph [ref=e454]: 199,000원
+          - generic [ref=e456]:
+            - link "기획전 이미지" [ref=e458] [cursor=pointer]:
+              - /url: /22/?idx=1606
+              - img "기획전 이미지" [ref=e459]
+            - link "Ticktype DP104 기계식 키보드 라이트 블루, 라이(리니어) 287,000원" [ref=e462] [cursor=pointer]:
+              - /url: /22/?idx=1606
+              - generic [ref=e463]:
+                - heading "Ticktype DP104 기계식 키보드 라이트 블루, 라이(리니어)" [level=2] [ref=e464]
+                - paragraph [ref=e466]: 287,000원
+          - generic [ref=e468]:
+            - link "기획전 이미지" [ref=e470] [cursor=pointer]:
+              - /url: /22/?idx=1604
+              - img "기획전 이미지" [ref=e471]
+            - link "Ticktype DP104 기계식 키보드 그레이, 라이(리니어) 287,000원" [ref=e474] [cursor=pointer]:
+              - /url: /22/?idx=1604
+              - generic [ref=e475]:
+                - heading "Ticktype DP104 기계식 키보드 그레이, 라이(리니어)" [level=2] [ref=e476]
+                - paragraph [ref=e478]: 287,000원
+          - generic [ref=e480]:
+            - link "기획전 이미지" [ref=e482] [cursor=pointer]:
+              - /url: /22/?idx=1233
+              - img "기획전 이미지" [ref=e483]
+            - link "MatrixLab [TOLNTOY] One Thing 440,000원 30% 308,000원" [ref=e486] [cursor=pointer]:
+              - /url: /22/?idx=1233
+              - generic [ref=e487]:
+                - heading "MatrixLab [TOLNTOY] One Thing" [level=2] [ref=e488]
+                - generic [ref=e489]:
+                  - paragraph [ref=e490]: 440,000원
+                  - paragraph [ref=e491]: 30% 308,000원
+          - generic [ref=e493]:
+            - link "기획전 이미지" [ref=e495] [cursor=pointer]:
+              - /url: /22/?idx=959
+              - img "기획전 이미지" [ref=e496]
+            - link "Qwertykeys NEO Ergo 파츠 & 팜레스트 23,000원" [ref=e499] [cursor=pointer]:
+              - /url: /22/?idx=959
+              - generic [ref=e500]:
+                - heading "Qwertykeys NEO Ergo 파츠 & 팜레스트" [level=2] [ref=e501]
+                - paragraph [ref=e503]: 23,000원
+          - generic [ref=e505]:
+            - link "기획전 이미지" [ref=e507] [cursor=pointer]:
+              - /url: /22/?idx=1610
+              - img "기획전 이미지" [ref=e508]
+            - link "Ticktype DP104 기계식 키보드 웜 실버, 라이(리니어) 287,000원" [ref=e511] [cursor=pointer]:
+              - /url: /22/?idx=1610
+              - generic [ref=e512]:
+                - heading "Ticktype DP104 기계식 키보드 웜 실버, 라이(리니어)" [level=2] [ref=e513]
+                - paragraph [ref=e515]: 287,000원
+          - generic [ref=e517]:
+            - link "기획전 이미지" [ref=e519] [cursor=pointer]:
+              - /url: /22/?idx=1751
+              - img "기획전 이미지" [ref=e520]
+            - link "Qwertykeys NEO98 보강판 29,000원" [ref=e523] [cursor=pointer]:
+              - /url: /22/?idx=1751
+              - generic [ref=e524]:
+                - heading "Qwertykeys NEO98 보강판" [level=2] [ref=e525]
+                - paragraph [ref=e527]: 29,000원
+          - generic [ref=e529]:
+            - link "기획전 이미지" [ref=e531] [cursor=pointer]:
+              - /url: /22/?idx=1750
+              - img "기획전 이미지" [ref=e532]
+            - link "Qwertykeys NEO98 기판 89,000원" [ref=e535] [cursor=pointer]:
+              - /url: /22/?idx=1750
+              - generic [ref=e536]:
+                - heading "Qwertykeys NEO98 기판" [level=2] [ref=e537]
+                - paragraph [ref=e539]: 89,000원
+          - generic [ref=e541]:
+            - link "기획전 이미지" [ref=e543] [cursor=pointer]:
+              - /url: /22/?idx=1748
+              - img "기획전 이미지" [ref=e544]
+            - link "NEO98 커스텀 기계식 키보드 145,800원" [ref=e547] [cursor=pointer]:
+              - /url: /22/?idx=1748
+              - generic [ref=e548]:
+                - heading "NEO98 커스텀 기계식 키보드" [level=2] [ref=e549]
+                - paragraph [ref=e551]: 145,800원
+          - generic [ref=e553]:
+            - link "기획전 이미지" [ref=e555] [cursor=pointer]:
+              - /url: /22/?idx=1730
+              - img "기획전 이미지" [ref=e556]
+            - link "세라키 Zen75 기계식 키보드 239,000원" [ref=e559] [cursor=pointer]:
+              - /url: /22/?idx=1730
+              - generic [ref=e560]:
+                - heading "세라키 Zen75 기계식 키보드" [level=2] [ref=e561]
+                - paragraph [ref=e563]: 239,000원
+          - generic [ref=e565]:
+            - link "기획전 이미지" [ref=e567] [cursor=pointer]:
+              - /url: /22/?idx=1699
+              - img "기획전 이미지" [ref=e568]
+            - link "Shelby65 기판 49,000원" [ref=e571] [cursor=pointer]:
+              - /url: /22/?idx=1699
+              - generic [ref=e572]:
+                - heading "Shelby65 기판" [level=2] [ref=e573]
+                - paragraph [ref=e575]: 49,000원
+          - generic [ref=e577]:
+            - link "기획전 이미지" [ref=e579] [cursor=pointer]:
+              - /url: /22/?idx=1695
+              - img "기획전 이미지" [ref=e580]
+            - link "SC Studio 브릿지75 커스텀 키보드 Plus 스웨그키 Bridge75 125,000원" [ref=e583] [cursor=pointer]:
+              - /url: /22/?idx=1695
+              - generic [ref=e584]:
+                - heading "SC Studio 브릿지75 커스텀 키보드 Plus 스웨그키 Bridge75" [level=2] [ref=e585]
+                - paragraph [ref=e587]: 125,000원
+          - generic [ref=e589]:
+            - link "기획전 이미지" [ref=e591] [cursor=pointer]:
+              - /url: /22/?idx=1661
+              - img "기획전 이미지" [ref=e592]
+            - link "Qwertykeys QK65 MK3 보강판 32,000원" [ref=e595] [cursor=pointer]:
+              - /url: /22/?idx=1661
+              - generic [ref=e596]:
+                - heading "Qwertykeys QK65 MK3 보강판" [level=2] [ref=e597]
+                - paragraph [ref=e599]: 32,000원
+          - generic [ref=e601]:
+            - link "기획전 이미지" [ref=e603] [cursor=pointer]:
+              - /url: /22/?idx=1650
+              - img "기획전 이미지" [ref=e604]
+            - link "MatrixLab - NOOS Wing 460,000원" [ref=e607] [cursor=pointer]:
+              - /url: /22/?idx=1650
+              - generic [ref=e608]:
+                - heading "MatrixLab - NOOS Wing" [level=2] [ref=e609]
+                - paragraph [ref=e611]: 460,000원
+          - generic [ref=e613]:
+            - link "기획전 이미지" [ref=e615] [cursor=pointer]:
+              - /url: /22/?idx=1642
+              - img "기획전 이미지" [ref=e616]
+            - link "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Sandgold, Azure + FR4 199,000원" [ref=e619] [cursor=pointer]:
+              - /url: /22/?idx=1642
+              - generic [ref=e620]:
+                - heading "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Sandgold, Azure + FR4" [level=2] [ref=e621]
+                - paragraph [ref=e623]: 199,000원
+          - generic [ref=e625]:
+            - link "기획전 이미지" [ref=e627] [cursor=pointer]:
+              - /url: /22/?idx=1641
+              - img "기획전 이미지" [ref=e628]
+            - link "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Sandgold, Oat + PP 199,000원" [ref=e631] [cursor=pointer]:
+              - /url: /22/?idx=1641
+              - generic [ref=e632]:
+                - heading "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Sandgold, Oat + PP" [level=2] [ref=e633]
+                - paragraph [ref=e635]: 199,000원
+          - generic [ref=e637]:
+            - link "기획전 이미지" [ref=e639] [cursor=pointer]:
+              - /url: /22/?idx=1638
+              - img "기획전 이미지" [ref=e640]
+            - link "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Tyrian, Oat + PP 199,000원" [ref=e643] [cursor=pointer]:
+              - /url: /22/?idx=1638
+              - generic [ref=e644]:
+                - heading "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Tyrian, Oat + PP" [level=2] [ref=e645]
+                - paragraph [ref=e647]: 199,000원
+          - generic [ref=e649]:
+            - link "기획전 이미지" [ref=e651] [cursor=pointer]:
+              - /url: /22/?idx=1637
+              - img "기획전 이미지" [ref=e652]
+            - link "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Cream, Azure + FR4 199,000원" [ref=e655] [cursor=pointer]:
+              - /url: /22/?idx=1637
+              - generic [ref=e656]:
+                - heading "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Cream, Azure + FR4" [level=2] [ref=e657]
+                - paragraph [ref=e659]: 199,000원
+          - generic [ref=e661]:
+            - link "기획전 이미지" [ref=e663] [cursor=pointer]:
+              - /url: /22/?idx=1636
+              - img "기획전 이미지" [ref=e664]
+            - link "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Cream, Oat + PP 199,000원" [ref=e667] [cursor=pointer]:
+              - /url: /22/?idx=1636
+              - generic [ref=e668]:
+                - heading "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Cream, Oat + PP" [level=2] [ref=e669]
+                - paragraph [ref=e671]: 199,000원
+          - generic [ref=e673]:
+            - link "기획전 이미지" [ref=e675] [cursor=pointer]:
+              - /url: /22/?idx=1634
+              - img "기획전 이미지" [ref=e676]
+            - link "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Spark, Oat + PP 199,000원" [ref=e679] [cursor=pointer]:
+              - /url: /22/?idx=1634
+              - generic [ref=e680]:
+                - heading "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Spark, Oat + PP" [level=2] [ref=e681]
+                - paragraph [ref=e683]: 199,000원
+          - generic [ref=e685]:
+            - link "기획전 이미지" [ref=e687] [cursor=pointer]:
+              - /url: /22/?idx=1632
+              - img "기획전 이미지" [ref=e688]
+            - link "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Scarlet, Oat + PP 199,000원" [ref=e691] [cursor=pointer]:
+              - /url: /22/?idx=1632
+              - generic [ref=e692]:
+                - heading "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Scarlet, Oat + PP" [level=2] [ref=e693]
+                - paragraph [ref=e695]: 199,000원
+          - generic [ref=e697]:
+            - link "기획전 이미지" [ref=e699] [cursor=pointer]:
+              - /url: /22/?idx=1630
+              - img "기획전 이미지" [ref=e700]
+            - link "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Nimbus, Azure + FR4 199,000원" [ref=e703] [cursor=pointer]:
+              - /url: /22/?idx=1630
+              - generic [ref=e704]:
+                - heading "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Nimbus, Azure + FR4" [level=2] [ref=e705]
+                - paragraph [ref=e707]: 199,000원
+          - generic [ref=e709]:
+            - link "기획전 이미지" [ref=e711] [cursor=pointer]:
+              - /url: /22/?idx=1628
+              - img "기획전 이미지" [ref=e712]
+            - link "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Ink, Azure + FR4 199,000원" [ref=e715] [cursor=pointer]:
+              - /url: /22/?idx=1628
+              - generic [ref=e716]:
+                - heading "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Ink, Azure + FR4" [level=2] [ref=e717]
+                - paragraph [ref=e719]: 199,000원
+          - generic [ref=e721]:
+            - link "기획전 이미지" [ref=e723] [cursor=pointer]:
+              - /url: /22/?idx=1741
+              - img "기획전 이미지" [ref=e724]
+            - link "NP-R Numpad 314,000원" [ref=e727] [cursor=pointer]:
+              - /url: /22/?idx=1741
+              - generic [ref=e728]:
+                - heading "NP-R Numpad" [level=2] [ref=e729]
+                - paragraph [ref=e731]: 314,000원
+          - generic [ref=e733]:
+            - link "기획전 이미지" [ref=e735] [cursor=pointer]:
+              - /url: /22/?idx=860
+              - img "기획전 이미지" [ref=e736]
+            - link "스웨그키 SW Transition LITE Barebone Kit 트랜지션 라이트. 29,000원" [ref=e739] [cursor=pointer]:
+              - /url: /22/?idx=860
+              - generic [ref=e740]:
+                - heading "스웨그키 SW Transition LITE Barebone Kit 트랜지션 라이트." [level=2] [ref=e741]
+                - paragraph [ref=e743]: 29,000원
+          - generic [ref=e745]:
+            - link "기획전 이미지" [ref=e747] [cursor=pointer]:
+              - /url: /22/?idx=1627
+              - img "기획전 이미지" [ref=e748]
+            - link "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Ink, Oat + PP 199,000원" [ref=e751] [cursor=pointer]:
+              - /url: /22/?idx=1627
+              - generic [ref=e752]:
+                - heading "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Ink, Oat + PP" [level=2] [ref=e753]
+                - paragraph [ref=e755]: 199,000원
+          - generic [ref=e757]:
+            - link "기획전 이미지" [ref=e759] [cursor=pointer]:
+              - /url: /22/?idx=1528
+              - img "기획전 이미지" [ref=e760]
+            - link "스웨그키 트랜지션 라이트 기판 6.25u 7u 36,000원" [ref=e763] [cursor=pointer]:
+              - /url: /22/?idx=1528
+              - generic [ref=e764]:
+                - heading "스웨그키 트랜지션 라이트 기판 6.25u 7u" [level=2] [ref=e765]
+                - paragraph [ref=e767]: 36,000원
+          - generic [ref=e769]:
+            - link "기획전 이미지" [ref=e771] [cursor=pointer]:
+              - /url: /22/?idx=1392
+              - img "기획전 이미지" [ref=e772]
+            - link "트랜지션 라이트 Alu 상부 하우징 상판 49,000원" [ref=e775] [cursor=pointer]:
+              - /url: /22/?idx=1392
+              - generic [ref=e776]:
+                - heading "트랜지션 라이트 Alu 상부 하우징 상판" [level=2] [ref=e777]
+                - paragraph [ref=e779]: 49,000원
+        - generic:
+          - generic:  
+      - paragraph [ref=e787]:
+        - strong [ref=e789]: KEYBOARD
+      - generic [ref=e797]:
+        - generic [ref=e799]:
+          - generic [ref=e801]:
+            - link "기획전 이미지" [ref=e803] [cursor=pointer]:
+              - /url: /22/?idx=1641
+              - img "기획전 이미지" [ref=e804]
+            - link "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Sandgold, Oat + PP 199,000원" [ref=e807] [cursor=pointer]:
+              - /url: /22/?idx=1641
+              - generic [ref=e808]:
+                - heading "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Sandgold, Oat + PP" [level=2] [ref=e809]
+                - paragraph [ref=e811]: 199,000원
+          - generic [ref=e813]:
+            - link "기획전 이미지" [ref=e815] [cursor=pointer]:
+              - /url: /22/?idx=1639
+              - img "기획전 이미지" [ref=e816]
+            - link "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Tyrian, Azure + FR4 199,000원" [ref=e819] [cursor=pointer]:
+              - /url: /22/?idx=1639
+              - generic [ref=e820]:
+                - heading "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Tyrian, Azure + FR4" [level=2] [ref=e821]
+                - paragraph [ref=e823]: 199,000원
+          - generic [ref=e825]:
+            - link "기획전 이미지" [ref=e827] [cursor=pointer]:
+              - /url: /22/?idx=1638
+              - img "기획전 이미지" [ref=e828]
+            - link "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Tyrian, Oat + PP 199,000원" [ref=e831] [cursor=pointer]:
+              - /url: /22/?idx=1638
+              - generic [ref=e832]:
+                - heading "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Tyrian, Oat + PP" [level=2] [ref=e833]
+                - paragraph [ref=e835]: 199,000원
+          - generic [ref=e837]:
+            - link "기획전 이미지" [ref=e839] [cursor=pointer]:
+              - /url: /22/?idx=1637
+              - img "기획전 이미지" [ref=e840]
+            - link "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Cream, Azure + FR4 199,000원" [ref=e843] [cursor=pointer]:
+              - /url: /22/?idx=1637
+              - generic [ref=e844]:
+                - heading "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Cream, Azure + FR4" [level=2] [ref=e845]
+                - paragraph [ref=e847]: 199,000원
+          - generic [ref=e849]:
+            - link "기획전 이미지" [ref=e851] [cursor=pointer]:
+              - /url: /22/?idx=1636
+              - img "기획전 이미지" [ref=e852]
+            - link "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Cream, Oat + PP 199,000원" [ref=e855] [cursor=pointer]:
+              - /url: /22/?idx=1636
+              - generic [ref=e856]:
+                - heading "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Cream, Oat + PP" [level=2] [ref=e857]
+                - paragraph [ref=e859]: 199,000원
+          - generic [ref=e861]:
+            - link "기획전 이미지" [ref=e863] [cursor=pointer]:
+              - /url: /22/?idx=1635
+              - img "기획전 이미지" [ref=e864]
+            - link "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Spark, Azure + FR4 199,000원" [ref=e867] [cursor=pointer]:
+              - /url: /22/?idx=1635
+              - generic [ref=e868]:
+                - heading "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Spark, Azure + FR4" [level=2] [ref=e869]
+                - paragraph [ref=e871]: 199,000원
+          - generic [ref=e873]:
+            - link "기획전 이미지" [ref=e875] [cursor=pointer]:
+              - /url: /22/?idx=1754
+              - img "기획전 이미지" [ref=e876]
+            - link "AM ATM98 커스텀 저소음 기계식 키보드 완제품 385,000원 10% 346,500원 sale item badge" [ref=e879] [cursor=pointer]:
+              - /url: /22/?idx=1754
+              - generic [ref=e880]:
+                - heading "AM ATM98 커스텀 저소음 기계식 키보드 완제품" [level=2] [ref=e881]
+                - generic [ref=e882]:
+                  - paragraph [ref=e883]: 385,000원
+                  - paragraph [ref=e884]: 10% 346,500원
+                - img "sale item badge" [ref=e887]
+          - generic [ref=e889]:
+            - link "기획전 이미지" [ref=e891] [cursor=pointer]:
+              - /url: /22/?idx=1751
+              - img "기획전 이미지" [ref=e892]
+            - link "Qwertykeys NEO98 보강판 29,000원" [ref=e895] [cursor=pointer]:
+              - /url: /22/?idx=1751
+              - generic [ref=e896]:
+                - heading "Qwertykeys NEO98 보강판" [level=2] [ref=e897]
+                - paragraph [ref=e899]: 29,000원
+          - generic [ref=e901]:
+            - link "기획전 이미지" [ref=e903] [cursor=pointer]:
+              - /url: /22/?idx=1750
+              - img "기획전 이미지" [ref=e904]
+            - link "Qwertykeys NEO98 기판 89,000원" [ref=e907] [cursor=pointer]:
+              - /url: /22/?idx=1750
+              - generic [ref=e908]:
+                - heading "Qwertykeys NEO98 기판" [level=2] [ref=e909]
+                - paragraph [ref=e911]: 89,000원
+          - generic [ref=e913]:
+            - link "기획전 이미지" [ref=e915] [cursor=pointer]:
+              - /url: /22/?idx=1749
+              - img "기획전 이미지" [ref=e916]
+            - link "Qwertykeys NEO75 보강판 29,000원" [ref=e919] [cursor=pointer]:
+              - /url: /22/?idx=1749
+              - generic [ref=e920]:
+                - heading "Qwertykeys NEO75 보강판" [level=2] [ref=e921]
+                - paragraph [ref=e923]: 29,000원
+          - generic [ref=e925]:
+            - link "기획전 이미지" [ref=e927] [cursor=pointer]:
+              - /url: /22/?idx=1748
+              - img "기획전 이미지" [ref=e928]
+            - link "NEO98 커스텀 기계식 키보드 145,800원" [ref=e931] [cursor=pointer]:
+              - /url: /22/?idx=1748
+              - generic [ref=e932]:
+                - heading "NEO98 커스텀 기계식 키보드" [level=2] [ref=e933]
+                - paragraph [ref=e935]: 145,800원
+          - generic [ref=e937]:
+            - link "기획전 이미지" [ref=e939] [cursor=pointer]:
+              - /url: /22/?idx=1747
+              - img "기획전 이미지" [ref=e940]
+            - link "Qwertykeys NEO75 기판 29,000원" [ref=e943] [cursor=pointer]:
+              - /url: /22/?idx=1747
+              - generic [ref=e944]:
+                - heading "Qwertykeys NEO75 기판" [level=2] [ref=e945]
+                - paragraph [ref=e947]: 29,000원
+          - generic [ref=e949]:
+            - link "기획전 이미지" [ref=e951] [cursor=pointer]:
+              - /url: /22/?idx=1746
+              - img "기획전 이미지" [ref=e952]
+            - link "NEO75 커스텀 기계식 키보드 127,900원" [ref=e955] [cursor=pointer]:
+              - /url: /22/?idx=1746
+              - generic [ref=e956]:
+                - heading "NEO75 커스텀 기계식 키보드" [level=2] [ref=e957]
+                - paragraph [ref=e959]: 127,900원
+          - generic [ref=e961]:
+            - link "기획전 이미지" [ref=e963] [cursor=pointer]:
+              - /url: /22/?idx=1741
+              - img "기획전 이미지" [ref=e964]
+            - link "NP-R Numpad 314,000원" [ref=e967] [cursor=pointer]:
+              - /url: /22/?idx=1741
+              - generic [ref=e968]:
+                - heading "NP-R Numpad" [level=2] [ref=e969]
+                - paragraph [ref=e971]: 314,000원
+          - generic [ref=e973]:
+            - link "기획전 이미지" [ref=e975] [cursor=pointer]:
+              - /url: /22/?idx=1730
+              - img "기획전 이미지" [ref=e976]
+            - link "세라키 Zen75 기계식 키보드 239,000원" [ref=e979] [cursor=pointer]:
+              - /url: /22/?idx=1730
+              - generic [ref=e980]:
+                - heading "세라키 Zen75 기계식 키보드" [level=2] [ref=e981]
+                - paragraph [ref=e983]: 239,000원
+          - generic [ref=e985]:
+            - link "기획전 이미지" [ref=e987] [cursor=pointer]:
+              - /url: /22/?idx=1717
+              - img "기획전 이미지" [ref=e988]
+            - link "스웨그키 트랜지션 라이트 하우징 15,000원" [ref=e991] [cursor=pointer]:
+              - /url: /22/?idx=1717
+              - generic [ref=e992]:
+                - heading "스웨그키 트랜지션 라이트 하우징" [level=2] [ref=e993]
+                - paragraph [ref=e995]: 15,000원
+          - generic [ref=e997]:
+            - link "기획전 이미지" [ref=e999] [cursor=pointer]:
+              - /url: /22/?idx=1700
+              - img "기획전 이미지" [ref=e1000]
+            - link "Shelby65 보강판 25,000원" [ref=e1003] [cursor=pointer]:
+              - /url: /22/?idx=1700
+              - generic [ref=e1004]:
+                - heading "Shelby65 보강판" [level=2] [ref=e1005]
+                - paragraph [ref=e1007]: 25,000원
+          - generic [ref=e1009]:
+            - link "기획전 이미지" [ref=e1011] [cursor=pointer]:
+              - /url: /22/?idx=1699
+              - img "기획전 이미지" [ref=e1012]
+            - link "Shelby65 기판 49,000원" [ref=e1015] [cursor=pointer]:
+              - /url: /22/?idx=1699
+              - generic [ref=e1016]:
+                - heading "Shelby65 기판" [level=2] [ref=e1017]
+                - paragraph [ref=e1019]: 49,000원
+          - generic [ref=e1021]:
+            - link "기획전 이미지" [ref=e1023] [cursor=pointer]:
+              - /url: /22/?idx=1698
+              - img "기획전 이미지" [ref=e1024]
+            - link "SW Shelby80 8K PCB 69,000원 soldout item badge" [ref=e1027] [cursor=pointer]:
+              - /url: /22/?idx=1698
+              - generic [ref=e1028]:
+                - heading "SW Shelby80 8K PCB" [level=2] [ref=e1029]
+                - paragraph [ref=e1031]: 69,000원
+                - img "soldout item badge" [ref=e1034]
+          - generic [ref=e1036]:
+            - link "기획전 이미지" [ref=e1038] [cursor=pointer]:
+              - /url: /22/?idx=1697
+              - img "기획전 이미지" [ref=e1039]
+            - link "스웨그키 Shelby65 Barebone Kit 298,000원" [ref=e1042] [cursor=pointer]:
+              - /url: /22/?idx=1697
+              - generic [ref=e1043]:
+                - heading "스웨그키 Shelby65 Barebone Kit" [level=2] [ref=e1044]
+                - paragraph [ref=e1046]: 298,000원
+          - generic [ref=e1048]:
+            - link "기획전 이미지" [ref=e1050] [cursor=pointer]:
+              - /url: /22/?idx=1695
+              - img "기획전 이미지" [ref=e1051]
+            - link "SC Studio 브릿지75 커스텀 키보드 Plus 스웨그키 Bridge75 125,000원" [ref=e1054] [cursor=pointer]:
+              - /url: /22/?idx=1695
+              - generic [ref=e1055]:
+                - heading "SC Studio 브릿지75 커스텀 키보드 Plus 스웨그키 Bridge75" [level=2] [ref=e1056]
+                - paragraph [ref=e1058]: 125,000원
+          - generic [ref=e1060]:
+            - link "기획전 이미지" [ref=e1062] [cursor=pointer]:
+              - /url: /22/?idx=1694
+              - img "기획전 이미지" [ref=e1063]
+            - link "SC Studio 브릿지75 커스텀 키보드 HE 스웨그키 Bridge75 143,000원" [ref=e1066] [cursor=pointer]:
+              - /url: /22/?idx=1694
+              - generic [ref=e1067]:
+                - heading "SC Studio 브릿지75 커스텀 키보드 HE 스웨그키 Bridge75" [level=2] [ref=e1068]
+                - paragraph [ref=e1070]: 143,000원
+          - generic [ref=e1072]:
+            - link "기획전 이미지" [ref=e1074] [cursor=pointer]:
+              - /url: /22/?idx=1689
+              - img "기획전 이미지" [ref=e1075]
+            - link "스웨그키 AM Silkglass 강화유리 마우스패드 155,000원" [ref=e1078] [cursor=pointer]:
+              - /url: /22/?idx=1689
+              - generic [ref=e1079]:
+                - heading "스웨그키 AM Silkglass 강화유리 마우스패드" [level=2] [ref=e1080]
+                - paragraph [ref=e1082]: 155,000원
+          - generic [ref=e1084]:
+            - link "기획전 이미지" [ref=e1086] [cursor=pointer]:
+              - /url: /22/?idx=1688
+              - img "기획전 이미지" [ref=e1087]
+            - link "AM Infinity 무선 8K 게이밍 마우스 Basalt Black 205,000원" [ref=e1090] [cursor=pointer]:
+              - /url: /22/?idx=1688
+              - generic [ref=e1091]:
+                - heading "AM Infinity 무선 8K 게이밍 마우스 Basalt Black" [level=2] [ref=e1092]
+                - paragraph [ref=e1094]: 205,000원
+          - generic [ref=e1096]:
+            - link "기획전 이미지" [ref=e1098] [cursor=pointer]:
+              - /url: /22/?idx=1661
+              - img "기획전 이미지" [ref=e1099]
+            - link "Qwertykeys QK65 MK3 보강판 32,000원" [ref=e1102] [cursor=pointer]:
+              - /url: /22/?idx=1661
+              - generic [ref=e1103]:
+                - heading "Qwertykeys QK65 MK3 보강판" [level=2] [ref=e1104]
+                - paragraph [ref=e1106]: 32,000원
+          - generic [ref=e1108]:
+            - link "기획전 이미지" [ref=e1110] [cursor=pointer]:
+              - /url: /22/?idx=1660
+              - img "기획전 이미지" [ref=e1111]
+            - link "Qwertykeys QK65 MK3 기판 80,000원" [ref=e1114] [cursor=pointer]:
+              - /url: /22/?idx=1660
+              - generic [ref=e1115]:
+                - heading "Qwertykeys QK65 MK3 기판" [level=2] [ref=e1116]
+                - paragraph [ref=e1118]: 80,000원
+          - generic [ref=e1120]:
+            - link "기획전 이미지" [ref=e1122] [cursor=pointer]:
+              - /url: /22/?idx=1654
+              - img "기획전 이미지" [ref=e1123]
+            - link "[GB]QK65 MK3 키보드 379,000원 soldout item badge" [ref=e1126] [cursor=pointer]:
+              - /url: /22/?idx=1654
+              - generic [ref=e1127]:
+                - heading "[GB]QK65 MK3 키보드" [level=2] [ref=e1128]
+                - paragraph [ref=e1130]: 379,000원
+                - img "soldout item badge" [ref=e1133]
+          - generic [ref=e1135]:
+            - link "기획전 이미지" [ref=e1137] [cursor=pointer]:
+              - /url: /22/?idx=1650
+              - img "기획전 이미지" [ref=e1138]
+            - link "MatrixLab - NOOS Wing 460,000원" [ref=e1141] [cursor=pointer]:
+              - /url: /22/?idx=1650
+              - generic [ref=e1142]:
+                - heading "MatrixLab - NOOS Wing" [level=2] [ref=e1143]
+                - paragraph [ref=e1145]: 460,000원
+          - generic [ref=e1147]:
+            - link "기획전 이미지" [ref=e1149] [cursor=pointer]:
+              - /url: /22/?idx=1646
+              - img "기획전 이미지" [ref=e1150]
+            - link "[GB]Meletrix Zoom64 - Mechanical 버전 218,000원 판매대기" [ref=e1153] [cursor=pointer]:
+              - /url: /22/?idx=1646
+              - generic [ref=e1154]:
+                - heading "[GB]Meletrix Zoom64 - Mechanical 버전" [level=2] [ref=e1155]
+                - paragraph [ref=e1157]: 218,000원
+                - generic [ref=e1159]: 판매대기
+          - generic [ref=e1161]:
+            - link "기획전 이미지" [ref=e1163] [cursor=pointer]:
+              - /url: /22/?idx=1642
+              - img "기획전 이미지" [ref=e1164]
+            - link "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Sandgold, Azure + FR4 199,000원" [ref=e1167] [cursor=pointer]:
+              - /url: /22/?idx=1642
+              - generic [ref=e1168]:
+                - heading "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Sandgold, Azure + FR4" [level=2] [ref=e1169]
+                - paragraph [ref=e1171]: 199,000원
+          - generic [ref=e1173]:
+            - link "기획전 이미지" [ref=e1175] [cursor=pointer]:
+              - /url: /22/?idx=1641
+              - img "기획전 이미지" [ref=e1176]
+            - link "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Sandgold, Oat + PP 199,000원" [ref=e1179] [cursor=pointer]:
+              - /url: /22/?idx=1641
+              - generic [ref=e1180]:
+                - heading "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Sandgold, Oat + PP" [level=2] [ref=e1181]
+                - paragraph [ref=e1183]: 199,000원
+          - generic [ref=e1185]:
+            - link "기획전 이미지" [ref=e1187] [cursor=pointer]:
+              - /url: /22/?idx=1639
+              - img "기획전 이미지" [ref=e1188]
+            - link "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Tyrian, Azure + FR4 199,000원" [ref=e1191] [cursor=pointer]:
+              - /url: /22/?idx=1639
+              - generic [ref=e1192]:
+                - heading "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Tyrian, Azure + FR4" [level=2] [ref=e1193]
+                - paragraph [ref=e1195]: 199,000원
+          - generic [ref=e1197]:
+            - link "기획전 이미지" [ref=e1199] [cursor=pointer]:
+              - /url: /22/?idx=1638
+              - img "기획전 이미지" [ref=e1200]
+            - link "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Tyrian, Oat + PP 199,000원" [ref=e1203] [cursor=pointer]:
+              - /url: /22/?idx=1638
+              - generic [ref=e1204]:
+                - heading "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Tyrian, Oat + PP" [level=2] [ref=e1205]
+                - paragraph [ref=e1207]: 199,000원
+          - generic [ref=e1209]:
+            - link "기획전 이미지" [ref=e1211] [cursor=pointer]:
+              - /url: /22/?idx=1637
+              - img "기획전 이미지" [ref=e1212]
+            - link "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Cream, Azure + FR4 199,000원" [ref=e1215] [cursor=pointer]:
+              - /url: /22/?idx=1637
+              - generic [ref=e1216]:
+                - heading "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Cream, Azure + FR4" [level=2] [ref=e1217]
+                - paragraph [ref=e1219]: 199,000원
+          - generic [ref=e1221]:
+            - link "기획전 이미지" [ref=e1223] [cursor=pointer]:
+              - /url: /22/?idx=1636
+              - img "기획전 이미지" [ref=e1224]
+            - link "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Cream, Oat + PP 199,000원" [ref=e1227] [cursor=pointer]:
+              - /url: /22/?idx=1636
+              - generic [ref=e1228]:
+                - heading "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Cream, Oat + PP" [level=2] [ref=e1229]
+                - paragraph [ref=e1231]: 199,000원
+          - generic [ref=e1233]:
+            - link "기획전 이미지" [ref=e1235] [cursor=pointer]:
+              - /url: /22/?idx=1635
+              - img "기획전 이미지" [ref=e1236]
+            - link "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Spark, Azure + FR4 199,000원" [ref=e1239] [cursor=pointer]:
+              - /url: /22/?idx=1635
+              - generic [ref=e1240]:
+                - heading "[한글각인] EVO80 에보 알루미늄 키보드 에보80 Spark, Azure + FR4" [level=2] [ref=e1241]
+                - paragraph [ref=e1243]: 199,000원
+          - generic [ref=e1245]:
+            - link "기획전 이미지" [ref=e1247] [cursor=pointer]:
+              - /url: /22/?idx=1754
+              - img "기획전 이미지" [ref=e1248]
+            - link "AM ATM98 커스텀 저소음 기계식 키보드 완제품 385,000원 10% 346,500원 sale item badge" [ref=e1251] [cursor=pointer]:
+              - /url: /22/?idx=1754
+              - generic [ref=e1252]:
+                - heading "AM ATM98 커스텀 저소음 기계식 키보드 완제품" [level=2] [ref=e1253]
+                - generic [ref=e1254]:
+                  - paragraph [ref=e1255]: 385,000원
+                  - paragraph [ref=e1256]: 10% 346,500원
+                - img "sale item badge" [ref=e1259]
+          - generic [ref=e1261]:
+            - link "기획전 이미지" [ref=e1263] [cursor=pointer]:
+              - /url: /22/?idx=1751
+              - img "기획전 이미지" [ref=e1264]
+            - link "Qwertykeys NEO98 보강판 29,000원" [ref=e1267] [cursor=pointer]:
+              - /url: /22/?idx=1751
+              - generic [ref=e1268]:
+                - heading "Qwertykeys NEO98 보강판" [level=2] [ref=e1269]
+                - paragraph [ref=e1271]: 29,000원
+          - generic [ref=e1273]:
+            - link "기획전 이미지" [ref=e1275] [cursor=pointer]:
+              - /url: /22/?idx=1750
+              - img "기획전 이미지" [ref=e1276]
+            - link "Qwertykeys NEO98 기판 89,000원" [ref=e1279] [cursor=pointer]:
+              - /url: /22/?idx=1750
+              - generic [ref=e1280]:
+                - heading "Qwertykeys NEO98 기판" [level=2] [ref=e1281]
+                - paragraph [ref=e1283]: 89,000원
+          - generic [ref=e1285]:
+            - link "기획전 이미지" [ref=e1287] [cursor=pointer]:
+              - /url: /22/?idx=1749
+              - img "기획전 이미지" [ref=e1288]
+            - link "Qwertykeys NEO75 보강판 29,000원" [ref=e1291] [cursor=pointer]:
+              - /url: /22/?idx=1749
+              - generic [ref=e1292]:
+                - heading "Qwertykeys NEO75 보강판" [level=2] [ref=e1293]
+                - paragraph [ref=e1295]: 29,000원
+          - generic [ref=e1297]:
+            - link "기획전 이미지" [ref=e1299] [cursor=pointer]:
+              - /url: /22/?idx=1748
+              - img "기획전 이미지" [ref=e1300]
+            - link "NEO98 커스텀 기계식 키보드 145,800원" [ref=e1303] [cursor=pointer]:
+              - /url: /22/?idx=1748
+              - generic [ref=e1304]:
+                - heading "NEO98 커스텀 기계식 키보드" [level=2] [ref=e1305]
+                - paragraph [ref=e1307]: 145,800원
+          - generic [ref=e1309]:
+            - link "기획전 이미지" [ref=e1311] [cursor=pointer]:
+              - /url: /22/?idx=1747
+              - img "기획전 이미지" [ref=e1312]
+            - link "Qwertykeys NEO75 기판 29,000원" [ref=e1315] [cursor=pointer]:
+              - /url: /22/?idx=1747
+              - generic [ref=e1316]:
+                - heading "Qwertykeys NEO75 기판" [level=2] [ref=e1317]
+                - paragraph [ref=e1319]: 29,000원
+        - generic:
+          - generic:  
+      - separator [ref=e1326]
+      - paragraph [ref=e1334]:
+        - strong [ref=e1336]: KEYCAPS
+      - generic [ref=e1344]:
+        - generic [ref=e1346]:
+          - generic [ref=e1348]:
+            - link "기획전 이미지" [ref=e1350] [cursor=pointer]:
+              - /url: /23/?idx=1485
+              - img "기획전 이미지" [ref=e1351]
+            - link "스웨그키 Calm Beige PBT 염료승화 키캡 - 100% 62,000원" [ref=e1354] [cursor=pointer]:
+              - /url: /23/?idx=1485
+              - generic [ref=e1355]:
+                - heading "스웨그키 Calm Beige PBT 염료승화 키캡 - 100%" [level=2] [ref=e1356]
+                - paragraph [ref=e1358]: 62,000원
+          - generic [ref=e1360]:
+            - link "기획전 이미지" [ref=e1362] [cursor=pointer]:
+              - /url: /23/?idx=1456
+              - img "기획전 이미지" [ref=e1363]
+            - link "스웨그키 세라키 세라믹 V2 키캡 Blue Crazed 235,000원" [ref=e1366] [cursor=pointer]:
+              - /url: /23/?idx=1456
+              - generic [ref=e1367]:
+                - heading "스웨그키 세라키 세라믹 V2 키캡 Blue Crazed" [level=2] [ref=e1368]
+                - paragraph [ref=e1370]: 235,000원
+          - generic [ref=e1372]:
+            - link "기획전 이미지" [ref=e1374] [cursor=pointer]:
+              - /url: /23/?idx=1442
+              - img "기획전 이미지" [ref=e1375]
+            - link "스웨그키 SW Maestro 키캡 88,000원" [ref=e1378] [cursor=pointer]:
+              - /url: /23/?idx=1442
+              - generic [ref=e1379]:
+                - heading "스웨그키 SW Maestro 키캡" [level=2] [ref=e1380]
+                - paragraph [ref=e1382]: 88,000원
+          - generic [ref=e1384]:
+            - link "기획전 이미지" [ref=e1386] [cursor=pointer]:
+              - /url: /23/?idx=1422
+              - img "기획전 이미지" [ref=e1387]
+            - link "스웨그키 SW Wild 키캡 79,900원 50% 39,950원" [ref=e1390] [cursor=pointer]:
+              - /url: /23/?idx=1422
+              - generic [ref=e1391]:
+                - heading "스웨그키 SW Wild 키캡" [level=2] [ref=e1392]
+                - generic [ref=e1393]:
+                  - paragraph [ref=e1394]: 79,900원
+                  - paragraph [ref=e1395]: 50% 39,950원
+          - generic [ref=e1397]:
+            - link "기획전 이미지" [ref=e1399] [cursor=pointer]:
+              - /url: /23/?idx=1161
+              - img "기획전 이미지" [ref=e1400]
+            - link "PBS Black on White 키캡 97,000원" [ref=e1403] [cursor=pointer]:
+              - /url: /23/?idx=1161
+              - generic [ref=e1404]:
+                - heading "PBS Black on White 키캡" [level=2] [ref=e1405]
+                - paragraph [ref=e1407]: 97,000원
+          - generic [ref=e1409]:
+            - link "기획전 이미지" [ref=e1411] [cursor=pointer]:
+              - /url: /23/?idx=1755
+              - img "기획전 이미지" [ref=e1412]
+            - link "[GB]SWG Prepress ABS 이중사출 키캡 87,000원" [ref=e1415] [cursor=pointer]:
+              - /url: /23/?idx=1755
+              - generic [ref=e1416]:
+                - heading "[GB]SWG Prepress ABS 이중사출 키캡" [level=2] [ref=e1417]
+                - paragraph [ref=e1419]: 87,000원
+          - generic [ref=e1421]:
+            - link "기획전 이미지" [ref=e1423] [cursor=pointer]:
+              - /url: /23/?idx=1744
+              - img "기획전 이미지" [ref=e1424]
+            - link "[GB]SWG Euler ABS 이중사출 키캡 79,000원" [ref=e1427] [cursor=pointer]:
+              - /url: /23/?idx=1744
+              - generic [ref=e1428]:
+                - heading "[GB]SWG Euler ABS 이중사출 키캡" [level=2] [ref=e1429]
+                - paragraph [ref=e1431]: 79,000원
+          - generic [ref=e1433]:
+            - link "기획전 이미지" [ref=e1435] [cursor=pointer]:
+              - /url: /23/?idx=986
+              - img "기획전 이미지" [ref=e1436]
+            - link "스웨그키 SW Antarctic 이중사출 키캡 세트 65,000원 50% 32,500원" [ref=e1439] [cursor=pointer]:
+              - /url: /23/?idx=986
+              - generic [ref=e1440]:
+                - heading "스웨그키 SW Antarctic 이중사출 키캡 세트" [level=2] [ref=e1441]
+                - generic [ref=e1442]:
+                  - paragraph [ref=e1443]: 65,000원
+                  - paragraph [ref=e1444]: 50% 32,500원
+          - generic [ref=e1446]:
+            - link "기획전 이미지" [ref=e1448] [cursor=pointer]:
+              - /url: /23/?idx=868
+              - img "기획전 이미지" [ref=e1449]
+            - link "FBB SFC 기계식 키보드 키캡 47,000원" [ref=e1452] [cursor=pointer]:
+              - /url: /23/?idx=868
+              - generic [ref=e1453]:
+                - heading "FBB SFC 기계식 키보드 키캡" [level=2] [ref=e1454]
+                - paragraph [ref=e1456]: 47,000원
+          - generic [ref=e1458]:
+            - link "기획전 이미지" [ref=e1460] [cursor=pointer]:
+              - /url: /23/?idx=1411
+              - img "기획전 이미지" [ref=e1461]
+            - link "FBB Ramen Ichiraku 아티산 키캡 15,000원" [ref=e1464] [cursor=pointer]:
+              - /url: /23/?idx=1411
+              - generic [ref=e1465]:
+                - heading "FBB Ramen Ichiraku 아티산 키캡" [level=2] [ref=e1466]
+                - paragraph [ref=e1468]: 15,000원
+          - generic [ref=e1470]:
+            - link "기획전 이미지" [ref=e1472] [cursor=pointer]:
+              - /url: /23/?idx=1445
+              - img "기획전 이미지" [ref=e1473]
+            - link "스웨그키 세라키 세라믹 V3 키캡 Matte 181,500원" [ref=e1476] [cursor=pointer]:
+              - /url: /23/?idx=1445
+              - generic [ref=e1477]:
+                - heading "스웨그키 세라키 세라믹 V3 키캡 Matte" [level=2] [ref=e1478]
+                - paragraph [ref=e1480]: 181,500원
+          - generic [ref=e1482]:
+            - link "기획전 이미지" [ref=e1484] [cursor=pointer]:
+              - /url: /23/?idx=1436
+              - img "기획전 이미지" [ref=e1485]
+            - link "스웨그키 ZOMO 크리스마스 굴뚝 테마 포인트 키캡 10,900원" [ref=e1488] [cursor=pointer]:
+              - /url: /23/?idx=1436
+              - generic [ref=e1489]:
+                - heading "스웨그키 ZOMO 크리스마스 굴뚝 테마 포인트 키캡" [level=2] [ref=e1490]
+                - paragraph [ref=e1492]: 10,900원
+          - generic [ref=e1494]:
+            - link "기획전 이미지" [ref=e1496] [cursor=pointer]:
+              - /url: /23/?idx=1210
+              - img "기획전 이미지" [ref=e1497]
+            - link "Keyboard Science Mac Color 키캡 72,000원" [ref=e1500] [cursor=pointer]:
+              - /url: /23/?idx=1210
+              - generic [ref=e1501]:
+                - heading "Keyboard Science Mac Color 키캡" [level=2] [ref=e1502]
+                - paragraph [ref=e1504]: 72,000원
+          - generic [ref=e1506]:
+            - link "기획전 이미지" [ref=e1508] [cursor=pointer]:
+              - /url: /23/?idx=1148
+              - img "기획전 이미지" [ref=e1509]
+            - link "스웨그키 Qwertykeys Milk Tea 키캡 59,900원" [ref=e1512] [cursor=pointer]:
+              - /url: /23/?idx=1148
+              - generic [ref=e1513]:
+                - heading "스웨그키 Qwertykeys Milk Tea 키캡" [level=2] [ref=e1514]
+                - paragraph [ref=e1516]: 59,900원
+          - generic [ref=e1518]:
+            - link "기획전 이미지" [ref=e1520] [cursor=pointer]:
+              - /url: /23/?idx=991
+              - img "기획전 이미지" [ref=e1521]
+            - link "FBB Ramen Ichiraku R2 기계식 키보드 키캡 53,000원" [ref=e1524] [cursor=pointer]:
+              - /url: /23/?idx=991
+              - generic [ref=e1525]:
+                - heading "FBB Ramen Ichiraku R2 기계식 키보드 키캡" [level=2] [ref=e1526]
+                - paragraph [ref=e1528]: 53,000원
+          - generic [ref=e1530]:
+            - link "기획전 이미지" [ref=e1532] [cursor=pointer]:
+              - /url: /23/?idx=874
+              - img "기획전 이미지" [ref=e1533]
+            - link "스웨그키 투명 키보드 키캡 29,000원" [ref=e1536] [cursor=pointer]:
+              - /url: /23/?idx=874
+              - generic [ref=e1537]:
+                - heading "스웨그키 투명 키보드 키캡" [level=2] [ref=e1538]
+                - paragraph [ref=e1540]: 29,000원
+          - generic [ref=e1542]:
+            - link "기획전 이미지" [ref=e1544] [cursor=pointer]:
+              - /url: /23/?idx=1752
+              - img "기획전 이미지" [ref=e1545]
+            - link "LeleLab Snowspire Lake 키보드 키캡 59,900원" [ref=e1548] [cursor=pointer]:
+              - /url: /23/?idx=1752
+              - generic [ref=e1549]:
+                - heading "LeleLab Snowspire Lake 키보드 키캡" [level=2] [ref=e1550]
+                - paragraph [ref=e1552]: 59,900원
+          - generic [ref=e1554]:
+            - link "기획전 이미지" [ref=e1556] [cursor=pointer]:
+              - /url: /23/?idx=1745
+              - img "기획전 이미지" [ref=e1557]
+            - link "스웨그키 KAP MV Classic 키캡 169,000원" [ref=e1560] [cursor=pointer]:
+              - /url: /23/?idx=1745
+              - generic [ref=e1561]:
+                - heading "스웨그키 KAP MV Classic 키캡" [level=2] [ref=e1562]
+                - paragraph [ref=e1564]: 169,000원
+          - generic [ref=e1566]:
+            - link "기획전 이미지" [ref=e1568] [cursor=pointer]:
+              - /url: /23/?idx=1732
+              - img "기획전 이미지" [ref=e1569]
+            - link "스웨그키 Calm Beige 스탠다드 버전 PBT 염료승화 키캡 - 60% 49,000원" [ref=e1572] [cursor=pointer]:
+              - /url: /23/?idx=1732
+              - generic [ref=e1573]:
+                - heading "스웨그키 Calm Beige 스탠다드 버전 PBT 염료승화 키캡 - 60%" [level=2] [ref=e1574]
+                - paragraph [ref=e1576]: 49,000원
+          - generic [ref=e1578]:
+            - link "기획전 이미지" [ref=e1580] [cursor=pointer]:
+              - /url: /23/?idx=1729
+              - img "기획전 이미지" [ref=e1581]
+            - link "DoodleCaps 낙서 블랙 PBT 염료승화 키캡 64,900원" [ref=e1584] [cursor=pointer]:
+              - /url: /23/?idx=1729
+              - generic [ref=e1585]:
+                - heading "DoodleCaps 낙서 블랙 PBT 염료승화 키캡" [level=2] [ref=e1586]
+                - paragraph [ref=e1588]: 64,900원
+          - generic [ref=e1590]:
+            - link "기획전 이미지" [ref=e1592] [cursor=pointer]:
+              - /url: /23/?idx=1724
+              - img "기획전 이미지" [ref=e1593]
+            - link "스웨그키 MW Pancoon 키보드 키캡 Spacebar 스페이스바 킷 32,400원" [ref=e1596] [cursor=pointer]:
+              - /url: /23/?idx=1724
+              - generic [ref=e1597]:
+                - heading "스웨그키 MW Pancoon 키보드 키캡 Spacebar 스페이스바 킷" [level=2] [ref=e1598]
+                - paragraph [ref=e1600]: 32,400원
+          - generic [ref=e1602]:
+            - link "기획전 이미지" [ref=e1604] [cursor=pointer]:
+              - /url: /23/?idx=1720
+              - img "기획전 이미지" [ref=e1605]
+            - link "스웨그키 MOA 키보드 키캡 21,900원 50% 10,950원" [ref=e1608] [cursor=pointer]:
+              - /url: /23/?idx=1720
+              - generic [ref=e1609]:
+                - heading "스웨그키 MOA 키보드 키캡" [level=2] [ref=e1610]
+                - generic [ref=e1611]:
+                  - paragraph [ref=e1612]: 21,900원
+                  - paragraph [ref=e1613]: 50% 10,950원
+          - generic [ref=e1615]:
+            - link "기획전 이미지" [ref=e1617] [cursor=pointer]:
+              - /url: /23/?idx=1693
+              - img "기획전 이미지" [ref=e1618]
+            - link "스웨그키 코코 서스 키캡 23,000원" [ref=e1621] [cursor=pointer]:
+              - /url: /23/?idx=1693
+              - generic [ref=e1622]:
+                - heading "스웨그키 코코 서스 키캡" [level=2] [ref=e1623]
+                - paragraph [ref=e1625]: 23,000원
+          - generic [ref=e1627]:
+            - link "기획전 이미지" [ref=e1629] [cursor=pointer]:
+              - /url: /23/?idx=1683
+              - img "기획전 이미지" [ref=e1630]
+            - link "스웨그키 Black on Black BoB 키캡 - 60% 49,000원" [ref=e1633] [cursor=pointer]:
+              - /url: /23/?idx=1683
+              - generic [ref=e1634]:
+                - heading "스웨그키 Black on Black BoB 키캡 - 60%" [level=2] [ref=e1635]
+                - paragraph [ref=e1637]: 49,000원
+          - generic [ref=e1639]:
+            - link "기획전 이미지" [ref=e1641] [cursor=pointer]:
+              - /url: /23/?idx=1674
+              - img "기획전 이미지" [ref=e1642]
+            - link "스웨그키 Lelelab Gems 키보드 키캡 49,900원" [ref=e1645] [cursor=pointer]:
+              - /url: /23/?idx=1674
+              - generic [ref=e1646]:
+                - heading "스웨그키 Lelelab Gems 키보드 키캡" [level=2] [ref=e1647]
+                - paragraph [ref=e1649]: 49,900원
+          - generic [ref=e1651]:
+            - link "기획전 이미지" [ref=e1653] [cursor=pointer]:
+              - /url: /23/?idx=1623
+              - img "기획전 이미지" [ref=e1654]
+            - link "DoodleCaps 낙서 PBT 염료승화 키캡 49,900원" [ref=e1657] [cursor=pointer]:
+              - /url: /23/?idx=1623
+              - generic [ref=e1658]:
+                - heading "DoodleCaps 낙서 PBT 염료승화 키캡" [level=2] [ref=e1659]
+                - paragraph [ref=e1661]: 49,900원
+          - generic [ref=e1663]:
+            - link "기획전 이미지" [ref=e1665] [cursor=pointer]:
+              - /url: /23/?idx=1587
+              - img "기획전 이미지" [ref=e1666]
+            - link "SWG Beige ABS 이중사출 키캡 - Base 78,000원" [ref=e1669] [cursor=pointer]:
+              - /url: /23/?idx=1587
+              - generic [ref=e1670]:
+                - heading "SWG Beige ABS 이중사출 키캡 - Base" [level=2] [ref=e1671]
+                - paragraph [ref=e1673]: 78,000원
+          - generic [ref=e1675]:
+            - link "기획전 이미지" [ref=e1677] [cursor=pointer]:
+              - /url: /23/?idx=1490
+              - img "기획전 이미지" [ref=e1678]
+            - link "스웨그키 Calm Beige PBT 염료승화 키캡 - 65% 48,000원" [ref=e1681] [cursor=pointer]:
+              - /url: /23/?idx=1490
+              - generic [ref=e1682]:
+                - heading "스웨그키 Calm Beige PBT 염료승화 키캡 - 65%" [level=2] [ref=e1683]
+                - paragraph [ref=e1685]: 48,000원
+          - generic [ref=e1687]:
+            - link "기획전 이미지" [ref=e1689] [cursor=pointer]:
+              - /url: /23/?idx=1489
+              - img "기획전 이미지" [ref=e1690]
+            - link "스웨그키 Calm Beige PBT 염료승화 키캡 - 60% 49,000원" [ref=e1693] [cursor=pointer]:
+              - /url: /23/?idx=1489
+              - generic [ref=e1694]:
+                - heading "스웨그키 Calm Beige PBT 염료승화 키캡 - 60%" [level=2] [ref=e1695]
+                - paragraph [ref=e1697]: 49,000원
+          - generic [ref=e1699]:
+            - link "기획전 이미지" [ref=e1701] [cursor=pointer]:
+              - /url: /23/?idx=1488
+              - img "기획전 이미지" [ref=e1702]
+            - link "스웨그키 Calm Beige PBT 염료승화 키캡 - 컬러킷 15,000원" [ref=e1705] [cursor=pointer]:
+              - /url: /23/?idx=1488
+              - generic [ref=e1706]:
+                - heading "스웨그키 Calm Beige PBT 염료승화 키캡 - 컬러킷" [level=2] [ref=e1707]
+                - paragraph [ref=e1709]: 15,000원
+          - generic [ref=e1711]:
+            - link "기획전 이미지" [ref=e1713] [cursor=pointer]:
+              - /url: /23/?idx=1485
+              - img "기획전 이미지" [ref=e1714]
+            - link "스웨그키 Calm Beige PBT 염료승화 키캡 - 100% 62,000원" [ref=e1717] [cursor=pointer]:
+              - /url: /23/?idx=1485
+              - generic [ref=e1718]:
+                - heading "스웨그키 Calm Beige PBT 염료승화 키캡 - 100%" [level=2] [ref=e1719]
+                - paragraph [ref=e1721]: 62,000원
+          - generic [ref=e1723]:
+            - link "기획전 이미지" [ref=e1725] [cursor=pointer]:
+              - /url: /23/?idx=1456
+              - img "기획전 이미지" [ref=e1726]
+            - link "스웨그키 세라키 세라믹 V2 키캡 Blue Crazed 235,000원" [ref=e1729] [cursor=pointer]:
+              - /url: /23/?idx=1456
+              - generic [ref=e1730]:
+                - heading "스웨그키 세라키 세라믹 V2 키캡 Blue Crazed" [level=2] [ref=e1731]
+                - paragraph [ref=e1733]: 235,000원
+          - generic [ref=e1735]:
+            - link "기획전 이미지" [ref=e1737] [cursor=pointer]:
+              - /url: /23/?idx=1442
+              - img "기획전 이미지" [ref=e1738]
+            - link "스웨그키 SW Maestro 키캡 88,000원" [ref=e1741] [cursor=pointer]:
+              - /url: /23/?idx=1442
+              - generic [ref=e1742]:
+                - heading "스웨그키 SW Maestro 키캡" [level=2] [ref=e1743]
+                - paragraph [ref=e1745]: 88,000원
+          - generic [ref=e1747]:
+            - link "기획전 이미지" [ref=e1749] [cursor=pointer]:
+              - /url: /23/?idx=1422
+              - img "기획전 이미지" [ref=e1750]
+            - link "스웨그키 SW Wild 키캡 79,900원 50% 39,950원" [ref=e1753] [cursor=pointer]:
+              - /url: /23/?idx=1422
+              - generic [ref=e1754]:
+                - heading "스웨그키 SW Wild 키캡" [level=2] [ref=e1755]
+                - generic [ref=e1756]:
+                  - paragraph [ref=e1757]: 79,900원
+                  - paragraph [ref=e1758]: 50% 39,950원
+          - generic [ref=e1760]:
+            - link "기획전 이미지" [ref=e1762] [cursor=pointer]:
+              - /url: /23/?idx=1161
+              - img "기획전 이미지" [ref=e1763]
+            - link "PBS Black on White 키캡 97,000원" [ref=e1766] [cursor=pointer]:
+              - /url: /23/?idx=1161
+              - generic [ref=e1767]:
+                - heading "PBS Black on White 키캡" [level=2] [ref=e1768]
+                - paragraph [ref=e1770]: 97,000원
+          - generic [ref=e1772]:
+            - link "기획전 이미지" [ref=e1774] [cursor=pointer]:
+              - /url: /23/?idx=1755
+              - img "기획전 이미지" [ref=e1775]
+            - link "[GB]SWG Prepress ABS 이중사출 키캡 87,000원" [ref=e1778] [cursor=pointer]:
+              - /url: /23/?idx=1755
+              - generic [ref=e1779]:
+                - heading "[GB]SWG Prepress ABS 이중사출 키캡" [level=2] [ref=e1780]
+                - paragraph [ref=e1782]: 87,000원
+          - generic [ref=e1784]:
+            - link "기획전 이미지" [ref=e1786] [cursor=pointer]:
+              - /url: /23/?idx=1744
+              - img "기획전 이미지" [ref=e1787]
+            - link "[GB]SWG Euler ABS 이중사출 키캡 79,000원" [ref=e1790] [cursor=pointer]:
+              - /url: /23/?idx=1744
+              - generic [ref=e1791]:
+                - heading "[GB]SWG Euler ABS 이중사출 키캡" [level=2] [ref=e1792]
+                - paragraph [ref=e1794]: 79,000원
+          - generic [ref=e1796]:
+            - link "기획전 이미지" [ref=e1798] [cursor=pointer]:
+              - /url: /23/?idx=986
+              - img "기획전 이미지" [ref=e1799]
+            - link "스웨그키 SW Antarctic 이중사출 키캡 세트 65,000원 50% 32,500원" [ref=e1802] [cursor=pointer]:
+              - /url: /23/?idx=986
+              - generic [ref=e1803]:
+                - heading "스웨그키 SW Antarctic 이중사출 키캡 세트" [level=2] [ref=e1804]
+                - generic [ref=e1805]:
+                  - paragraph [ref=e1806]: 65,000원
+                  - paragraph [ref=e1807]: 50% 32,500원
+          - generic [ref=e1809]:
+            - link "기획전 이미지" [ref=e1811] [cursor=pointer]:
+              - /url: /23/?idx=868
+              - img "기획전 이미지" [ref=e1812]
+            - link "FBB SFC 기계식 키보드 키캡 47,000원" [ref=e1815] [cursor=pointer]:
+              - /url: /23/?idx=868
+              - generic [ref=e1816]:
+                - heading "FBB SFC 기계식 키보드 키캡" [level=2] [ref=e1817]
+                - paragraph [ref=e1819]: 47,000원
+          - generic [ref=e1821]:
+            - link "기획전 이미지" [ref=e1823] [cursor=pointer]:
+              - /url: /23/?idx=1411
+              - img "기획전 이미지" [ref=e1824]
+            - link "FBB Ramen Ichiraku 아티산 키캡 15,000원" [ref=e1827] [cursor=pointer]:
+              - /url: /23/?idx=1411
+              - generic [ref=e1828]:
+                - heading "FBB Ramen Ichiraku 아티산 키캡" [level=2] [ref=e1829]
+                - paragraph [ref=e1831]: 15,000원
+        - generic:
+          - generic:  
+      - separator [ref=e1838]
+      - paragraph [ref=e1846]:
+        - strong [ref=e1847]: SWITCHES
+      - generic [ref=e1855]:
+        - generic [ref=e1857]:
+          - generic [ref=e1859]:
+            - link "기획전 이미지" [ref=e1861] [cursor=pointer]:
+              - /url: /21/?idx=1117
+              - img "기획전 이미지" [ref=e1862]
+            - link "Keygeek Ash 리니어 스위치 300원 20% 240원" [ref=e1865] [cursor=pointer]:
+              - /url: /21/?idx=1117
+              - generic [ref=e1866]:
+                - heading "Keygeek Ash 리니어 스위치" [level=2] [ref=e1867]
+                - generic [ref=e1868]:
+                  - paragraph [ref=e1869]: 300원
+                  - paragraph [ref=e1870]: 20% 240원
+          - generic [ref=e1872]:
+            - link "기획전 이미지" [ref=e1874] [cursor=pointer]:
+              - /url: /21/?idx=423
+              - img "기획전 이미지" [ref=e1875]
+            - link "TTC 월백 V2 스위치 550원" [ref=e1878] [cursor=pointer]:
+              - /url: /21/?idx=423
+              - generic [ref=e1879]:
+                - heading "TTC 월백 V2 스위치" [level=2] [ref=e1880]
+                - paragraph [ref=e1882]: 550원
+          - generic [ref=e1884]:
+            - link "기획전 이미지" [ref=e1886] [cursor=pointer]:
+              - /url: /21/?idx=993
+              - img "기획전 이미지" [ref=e1887]
+            - link "Keygeek 오트 리니어 스위치 300원" [ref=e1890] [cursor=pointer]:
+              - /url: /21/?idx=993
+              - generic [ref=e1891]:
+                - heading "Keygeek 오트 리니어 스위치" [level=2] [ref=e1892]
+                - paragraph [ref=e1894]: 300원
+          - generic [ref=e1896]:
+            - link "기획전 이미지" [ref=e1898] [cursor=pointer]:
+              - /url: /21/?idx=994
+              - img "기획전 이미지" [ref=e1899]
+            - link "HMX 아주르 리니어 스위치 300원" [ref=e1902] [cursor=pointer]:
+              - /url: /21/?idx=994
+              - generic [ref=e1903]:
+                - heading "HMX 아주르 리니어 스위치" [level=2] [ref=e1904]
+                - paragraph [ref=e1906]: 300원
+          - generic [ref=e1908]:
+            - link "기획전 이미지" [ref=e1910] [cursor=pointer]:
+              - /url: /21/?idx=1715
+              - img "기획전 이미지" [ref=e1911]
+            - link "스웨그키 Keygeek DingDing 키보드 스위치 리니어 380원" [ref=e1914] [cursor=pointer]:
+              - /url: /21/?idx=1715
+              - generic [ref=e1915]:
+                - heading "스웨그키 Keygeek DingDing 키보드 스위치 리니어" [level=2] [ref=e1916]
+                - paragraph [ref=e1918]: 380원
+          - generic [ref=e1920]:
+            - link "기획전 이미지" [ref=e1922] [cursor=pointer]:
+              - /url: /21/?idx=1673
+              - img "기획전 이미지" [ref=e1923]
+            - link "Bsun 민트 키보드 스위치 250원 70% 75원" [ref=e1926] [cursor=pointer]:
+              - /url: /21/?idx=1673
+              - generic [ref=e1927]:
+                - heading "Bsun 민트 키보드 스위치" [level=2] [ref=e1928]
+                - generic [ref=e1929]:
+                  - paragraph [ref=e1930]: 250원
+                  - paragraph [ref=e1931]: 70% 75원
+          - generic [ref=e1933]:
+            - link "기획전 이미지" [ref=e1935] [cursor=pointer]:
+              - /url: /21/?idx=1281
+              - img "기획전 이미지" [ref=e1936]
+            - link "Neo Rye 라이 리니어 스위치 300원" [ref=e1939] [cursor=pointer]:
+              - /url: /21/?idx=1281
+              - generic [ref=e1940]:
+                - heading "Neo Rye 라이 리니어 스위치" [level=2] [ref=e1941]
+                - paragraph [ref=e1943]: 300원
+          - generic [ref=e1945]:
+            - link "기획전 이미지" [ref=e1947] [cursor=pointer]:
+              - /url: /21/?idx=1115
+              - img "기획전 이미지" [ref=e1948]
+            - link "Owlab Ti HE 마그네틱 스위치 590원" [ref=e1951] [cursor=pointer]:
+              - /url: /21/?idx=1115
+              - generic [ref=e1952]:
+                - heading "Owlab Ti HE 마그네틱 스위치" [level=2] [ref=e1953]
+                - paragraph [ref=e1955]: 590원
+          - generic [ref=e1957]:
+            - link "기획전 이미지" [ref=e1959] [cursor=pointer]:
+              - /url: /21/?idx=680
+              - img "기획전 이미지" [ref=e1960]
+            - link "Cherry MX2A 흑축 비윤활 스위치 270원" [ref=e1963] [cursor=pointer]:
+              - /url: /21/?idx=680
+              - generic [ref=e1964]:
+                - heading "Cherry MX2A 흑축 비윤활 스위치" [level=2] [ref=e1965]
+                - paragraph [ref=e1967]: 270원
+          - generic [ref=e1969]:
+            - link "기획전 이미지" [ref=e1971] [cursor=pointer]:
+              - /url: /21/?idx=1494
+              - img "기획전 이미지" [ref=e1972]
+            - link "HMX T-Rex 키보드 스위치 200원" [ref=e1975] [cursor=pointer]:
+              - /url: /21/?idx=1494
+              - generic [ref=e1976]:
+                - heading "HMX T-Rex 키보드 스위치" [level=2] [ref=e1977]
+                - paragraph [ref=e1979]: 200원
+          - generic [ref=e1981]:
+            - link "기획전 이미지" [ref=e1983] [cursor=pointer]:
+              - /url: /21/?idx=1251
+              - img "기획전 이미지" [ref=e1984]
+            - link "Haimu 스노우 저소음 자석축 키보드 스위치 330원 50% 165원" [ref=e1987] [cursor=pointer]:
+              - /url: /21/?idx=1251
+              - generic [ref=e1988]:
+                - heading "Haimu 스노우 저소음 자석축 키보드 스위치" [level=2] [ref=e1989]
+                - generic [ref=e1990]:
+                  - paragraph [ref=e1991]: 330원
+                  - paragraph [ref=e1992]: 50% 165원
+          - generic [ref=e1994]:
+            - link "기획전 이미지" [ref=e1996] [cursor=pointer]:
+              - /url: /21/?idx=596
+              - img "기획전 이미지" [ref=e1997]
+            - link "TTC 아이스 프로즌 저소음 V2 커스텀 기계식 키보드 스위치 공장윤활 사무용 590원" [ref=e2000] [cursor=pointer]:
+              - /url: /21/?idx=596
+              - generic [ref=e2001]:
+                - heading "TTC 아이스 프로즌 저소음 V2 커스텀 기계식 키보드 스위치 공장윤활 사무용" [level=2] [ref=e2002]
+                - paragraph [ref=e2004]: 590원
+          - generic [ref=e2006]:
+            - link "기획전 이미지" [ref=e2008] [cursor=pointer]:
+              - /url: /21/?idx=1658
+              - img "기획전 이미지" [ref=e2009]
+            - link "체리 MX 3핀 키보드 스위치 380원" [ref=e2012] [cursor=pointer]:
+              - /url: /21/?idx=1658
+              - generic [ref=e2013]:
+                - heading "체리 MX 3핀 키보드 스위치" [level=2] [ref=e2014]
+                - paragraph [ref=e2016]: 380원
+          - generic [ref=e2018]:
+            - link "기획전 이미지" [ref=e2020] [cursor=pointer]:
+              - /url: /21/?idx=1248
+              - img "기획전 이미지" [ref=e2021]
+            - link "Wuque BigLucky 빅럭키 클릭 스위치 Cliky 590원" [ref=e2024] [cursor=pointer]:
+              - /url: /21/?idx=1248
+              - generic [ref=e2025]:
+                - heading "Wuque BigLucky 빅럭키 클릭 스위치 Cliky" [level=2] [ref=e2026]
+                - paragraph [ref=e2028]: 590원
+          - generic [ref=e2030]:
+            - link "기획전 이미지" [ref=e2032] [cursor=pointer]:
+              - /url: /21/?idx=1589
+              - img "기획전 이미지" [ref=e2033]
+            - link "WEKT Kunzite 쿤자이트 저소음 리니어 스위치 420원" [ref=e2036] [cursor=pointer]:
+              - /url: /21/?idx=1589
+              - generic [ref=e2037]:
+                - heading "WEKT Kunzite 쿤자이트 저소음 리니어 스위치" [level=2] [ref=e2038]
+                - paragraph [ref=e2040]: 420원
+          - generic [ref=e2042]:
+            - link "기획전 이미지" [ref=e2044] [cursor=pointer]:
+              - /url: /21/?idx=1282
+              - img "기획전 이미지" [ref=e2045]
+            - link "Neo Amber 앰버 리니어 스위치 300원" [ref=e2048] [cursor=pointer]:
+              - /url: /21/?idx=1282
+              - generic [ref=e2049]:
+                - heading "Neo Amber 앰버 리니어 스위치" [level=2] [ref=e2050]
+                - paragraph [ref=e2052]: 300원
+          - generic [ref=e2054]:
+            - link "기획전 이미지" [ref=e2056] [cursor=pointer]:
+              - /url: /21/?idx=1258
+              - img "기획전 이미지" [ref=e2057]
+            - link "TTC 피넛 라떼 저소음 택타일 스위치 550원" [ref=e2060] [cursor=pointer]:
+              - /url: /21/?idx=1258
+              - generic [ref=e2061]:
+                - heading "TTC 피넛 라떼 저소음 택타일 스위치" [level=2] [ref=e2062]
+                - paragraph [ref=e2064]: 550원
+          - generic [ref=e2066]:
+            - link "기획전 이미지" [ref=e2068] [cursor=pointer]:
+              - /url: /21/?idx=1503
+              - img "기획전 이미지" [ref=e2069]
+            - link "HMX Duckduck V2 덕덕 키보드 스위치 380원" [ref=e2072] [cursor=pointer]:
+              - /url: /21/?idx=1503
+              - generic [ref=e2073]:
+                - heading "HMX Duckduck V2 덕덕 키보드 스위치" [level=2] [ref=e2074]
+                - paragraph [ref=e2076]: 380원
+          - generic [ref=e2078]:
+            - link "기획전 이미지" [ref=e2080] [cursor=pointer]:
+              - /url: /21/?idx=1303
+              - img "기획전 이미지" [ref=e2081]
+            - link "Cherry MX2A Blossom 리니어 스위치 490원" [ref=e2084] [cursor=pointer]:
+              - /url: /21/?idx=1303
+              - generic [ref=e2085]:
+                - heading "Cherry MX2A Blossom 리니어 스위치" [level=2] [ref=e2086]
+                - paragraph [ref=e2088]: 490원
+          - generic [ref=e2090]:
+            - link "기획전 이미지" [ref=e2092] [cursor=pointer]:
+              - /url: /21/?idx=769
+              - img "기획전 이미지" [ref=e2093]
+            - link "게이트론 Melodic 기계식 키보드 스위치. 690원" [ref=e2096] [cursor=pointer]:
+              - /url: /21/?idx=769
+              - generic [ref=e2097]:
+                - heading "게이트론 Melodic 기계식 키보드 스위치." [level=2] [ref=e2098]
+                - paragraph [ref=e2100]: 690원
+          - generic [ref=e2102]:
+            - link "기획전 이미지" [ref=e2104] [cursor=pointer]:
+              - /url: /21/?idx=674
+              - img "기획전 이미지" [ref=e2105]
+            - link "HMX 신하이 리니어 스위치 350원" [ref=e2108] [cursor=pointer]:
+              - /url: /21/?idx=674
+              - generic [ref=e2109]:
+                - heading "HMX 신하이 리니어 스위치" [level=2] [ref=e2110]
+                - paragraph [ref=e2112]: 350원
+          - generic [ref=e2114]:
+            - link "기획전 이미지" [ref=e2116] [cursor=pointer]:
+              - /url: /21/?idx=1659
+              - img "기획전 이미지" [ref=e2117]
+            - link "체리 MX 흑축 삼신흑 키보드 스위치 250원" [ref=e2120] [cursor=pointer]:
+              - /url: /21/?idx=1659
+              - generic [ref=e2121]:
+                - heading "체리 MX 흑축 삼신흑 키보드 스위치" [level=2] [ref=e2122]
+                - paragraph [ref=e2124]: 250원
+          - generic [ref=e2126]:
+            - link "기획전 이미지" [ref=e2128] [cursor=pointer]:
+              - /url: /21/?idx=1187
+              - img "기획전 이미지" [ref=e2129]
+            - link "Haimu 바다살구 스위치 120원" [ref=e2132] [cursor=pointer]:
+              - /url: /21/?idx=1187
+              - generic [ref=e2133]:
+                - heading "Haimu 바다살구 스위치" [level=2] [ref=e2134]
+                - paragraph [ref=e2136]: 120원
+          - generic [ref=e2138]:
+            - link "기획전 이미지" [ref=e2140] [cursor=pointer]:
+              - /url: /21/?idx=1010
+              - img "기획전 이미지" [ref=e2141]
+            - link "NEO 라벤더 HE 마그네틱 스위치 580원 60% 232원" [ref=e2144] [cursor=pointer]:
+              - /url: /21/?idx=1010
+              - generic [ref=e2145]:
+                - heading "NEO 라벤더 HE 마그네틱 스위치" [level=2] [ref=e2146]
+                - generic [ref=e2147]:
+                  - paragraph [ref=e2148]: 580원
+                  - paragraph [ref=e2149]: 60% 232원
+          - generic [ref=e2151]:
+            - link "기획전 이미지" [ref=e2153] [cursor=pointer]:
+              - /url: /21/?idx=1216
+              - img "기획전 이미지" [ref=e2154]
+            - link "오테뮤 크림 옐로우 저소음 키보드 스위치 스웨그키 290원" [ref=e2157] [cursor=pointer]:
+              - /url: /21/?idx=1216
+              - generic [ref=e2158]:
+                - heading "오테뮤 크림 옐로우 저소음 키보드 스위치 스웨그키" [level=2] [ref=e2159]
+                - paragraph [ref=e2161]: 290원
+          - generic [ref=e2163]:
+            - link "기획전 이미지" [ref=e2165] [cursor=pointer]:
+              - /url: /21/?idx=1677
+              - img "기획전 이미지" [ref=e2166]
+            - link "Tecsee x SW Flow Black 기계식 키보드 스위치 380원" [ref=e2169] [cursor=pointer]:
+              - /url: /21/?idx=1677
+              - generic [ref=e2170]:
+                - heading "Tecsee x SW Flow Black 기계식 키보드 스위치" [level=2] [ref=e2171]
+                - paragraph [ref=e2173]: 380원
+          - generic [ref=e2175]:
+            - link "기획전 이미지" [ref=e2177] [cursor=pointer]:
+              - /url: /21/?idx=1495
+              - img "기획전 이미지" [ref=e2178]
+            - link "Gazzew U4T 키보드 스위치 750원 50% 375원" [ref=e2181] [cursor=pointer]:
+              - /url: /21/?idx=1495
+              - generic [ref=e2182]:
+                - heading "Gazzew U4T 키보드 스위치" [level=2] [ref=e2183]
+                - generic [ref=e2184]:
+                  - paragraph [ref=e2185]: 750원
+                  - paragraph [ref=e2186]: 50% 375원
+          - generic [ref=e2188]:
+            - link "기획전 이미지" [ref=e2190] [cursor=pointer]:
+              - /url: /21/?idx=871
+              - img "기획전 이미지" [ref=e2191]
+            - link "SW x SWK 피오니 HE 마그네틱 스위치 390원 50% 195원" [ref=e2194] [cursor=pointer]:
+              - /url: /21/?idx=871
+              - generic [ref=e2195]:
+                - heading "SW x SWK 피오니 HE 마그네틱 스위치" [level=2] [ref=e2196]
+                - generic [ref=e2197]:
+                  - paragraph [ref=e2198]: 390원
+                  - paragraph [ref=e2199]: 50% 195원
+          - generic [ref=e2201]:
+            - link "기획전 이미지" [ref=e2203] [cursor=pointer]:
+              - /url: /21/?idx=720
+              - img "기획전 이미지" [ref=e2204]
+            - link "SW x Haimu MP 택타일 스위치 460원" [ref=e2207] [cursor=pointer]:
+              - /url: /21/?idx=720
+              - generic [ref=e2208]:
+                - heading "SW x Haimu MP 택타일 스위치" [level=2] [ref=e2209]
+                - paragraph [ref=e2211]: 460원
+          - generic [ref=e2213]:
+            - link "기획전 이미지" [ref=e2215] [cursor=pointer]:
+              - /url: /21/?idx=1656
+              - img "기획전 이미지" [ref=e2216]
+            - link "SWK 지음 v2 리니어 스위치 550원" [ref=e2219] [cursor=pointer]:
+              - /url: /21/?idx=1656
+              - generic [ref=e2220]:
+                - heading "SWK 지음 v2 리니어 스위치" [level=2] [ref=e2221]
+                - paragraph [ref=e2223]: 550원
+          - generic [ref=e2225]:
+            - link "기획전 이미지" [ref=e2227] [cursor=pointer]:
+              - /url: /21/?idx=1117
+              - img "기획전 이미지" [ref=e2228]
+            - link "Keygeek Ash 리니어 스위치 300원 20% 240원" [ref=e2231] [cursor=pointer]:
+              - /url: /21/?idx=1117
+              - generic [ref=e2232]:
+                - heading "Keygeek Ash 리니어 스위치" [level=2] [ref=e2233]
+                - generic [ref=e2234]:
+                  - paragraph [ref=e2235]: 300원
+                  - paragraph [ref=e2236]: 20% 240원
+          - generic [ref=e2238]:
+            - link "기획전 이미지" [ref=e2240] [cursor=pointer]:
+              - /url: /21/?idx=423
+              - img "기획전 이미지" [ref=e2241]
+            - link "TTC 월백 V2 스위치 550원" [ref=e2244] [cursor=pointer]:
+              - /url: /21/?idx=423
+              - generic [ref=e2245]:
+                - heading "TTC 월백 V2 스위치" [level=2] [ref=e2246]
+                - paragraph [ref=e2248]: 550원
+          - generic [ref=e2250]:
+            - link "기획전 이미지" [ref=e2252] [cursor=pointer]:
+              - /url: /21/?idx=993
+              - img "기획전 이미지" [ref=e2253]
+            - link "Keygeek 오트 리니어 스위치 300원" [ref=e2256] [cursor=pointer]:
+              - /url: /21/?idx=993
+              - generic [ref=e2257]:
+                - heading "Keygeek 오트 리니어 스위치" [level=2] [ref=e2258]
+                - paragraph [ref=e2260]: 300원
+          - generic [ref=e2262]:
+            - link "기획전 이미지" [ref=e2264] [cursor=pointer]:
+              - /url: /21/?idx=994
+              - img "기획전 이미지" [ref=e2265]
+            - link "HMX 아주르 리니어 스위치 300원" [ref=e2268] [cursor=pointer]:
+              - /url: /21/?idx=994
+              - generic [ref=e2269]:
+                - heading "HMX 아주르 리니어 스위치" [level=2] [ref=e2270]
+                - paragraph [ref=e2272]: 300원
+          - generic [ref=e2274]:
+            - link "기획전 이미지" [ref=e2276] [cursor=pointer]:
+              - /url: /21/?idx=1715
+              - img "기획전 이미지" [ref=e2277]
+            - link "스웨그키 Keygeek DingDing 키보드 스위치 리니어 380원" [ref=e2280] [cursor=pointer]:
+              - /url: /21/?idx=1715
+              - generic [ref=e2281]:
+                - heading "스웨그키 Keygeek DingDing 키보드 스위치 리니어" [level=2] [ref=e2282]
+                - paragraph [ref=e2284]: 380원
+          - generic [ref=e2286]:
+            - link "기획전 이미지" [ref=e2288] [cursor=pointer]:
+              - /url: /21/?idx=1673
+              - img "기획전 이미지" [ref=e2289]
+            - link "Bsun 민트 키보드 스위치 250원 70% 75원" [ref=e2292] [cursor=pointer]:
+              - /url: /21/?idx=1673
+              - generic [ref=e2293]:
+                - heading "Bsun 민트 키보드 스위치" [level=2] [ref=e2294]
+                - generic [ref=e2295]:
+                  - paragraph [ref=e2296]: 250원
+                  - paragraph [ref=e2297]: 70% 75원
+          - generic [ref=e2299]:
+            - link "기획전 이미지" [ref=e2301] [cursor=pointer]:
+              - /url: /21/?idx=1281
+              - img "기획전 이미지" [ref=e2302]
+            - link "Neo Rye 라이 리니어 스위치 300원" [ref=e2305] [cursor=pointer]:
+              - /url: /21/?idx=1281
+              - generic [ref=e2306]:
+                - heading "Neo Rye 라이 리니어 스위치" [level=2] [ref=e2307]
+                - paragraph [ref=e2309]: 300원
+          - generic [ref=e2311]:
+            - link "기획전 이미지" [ref=e2313] [cursor=pointer]:
+              - /url: /21/?idx=1115
+              - img "기획전 이미지" [ref=e2314]
+            - link "Owlab Ti HE 마그네틱 스위치 590원" [ref=e2317] [cursor=pointer]:
+              - /url: /21/?idx=1115
+              - generic [ref=e2318]:
+                - heading "Owlab Ti HE 마그네틱 스위치" [level=2] [ref=e2319]
+                - paragraph [ref=e2321]: 590원
+          - generic [ref=e2323]:
+            - link "기획전 이미지" [ref=e2325] [cursor=pointer]:
+              - /url: /21/?idx=680
+              - img "기획전 이미지" [ref=e2326]
+            - link "Cherry MX2A 흑축 비윤활 스위치 270원" [ref=e2329] [cursor=pointer]:
+              - /url: /21/?idx=680
+              - generic [ref=e2330]:
+                - heading "Cherry MX2A 흑축 비윤활 스위치" [level=2] [ref=e2331]
+                - paragraph [ref=e2333]: 270원
+          - generic [ref=e2335]:
+            - link "기획전 이미지" [ref=e2337] [cursor=pointer]:
+              - /url: /21/?idx=1494
+              - img "기획전 이미지" [ref=e2338]
+            - link "HMX T-Rex 키보드 스위치 200원" [ref=e2341] [cursor=pointer]:
+              - /url: /21/?idx=1494
+              - generic [ref=e2342]:
+                - heading "HMX T-Rex 키보드 스위치" [level=2] [ref=e2343]
+                - paragraph [ref=e2345]: 200원
+        - generic:
+          - generic:  
+      - generic [ref=e2350]:
+        - generic [ref=e2355]: 공지사항
+        - generic [ref=e2356]:
+          - list [ref=e2357]:
+            - listitem [ref=e2358]: "No"
+            - listitem [ref=e2359]: 제목
+            - listitem [ref=e2360]: 작성시간
+            - listitem [ref=e2361]: 조회수
+          - list [ref=e2362]:
+            - listitem [ref=e2363]: "46"
+            - listitem [ref=e2364]:
+              - link:
+                - /url: "?category="
+              - generic:  
+              - link "📢 용산 아이파크몰 베어본 할인 이벤트 종료 안내" [ref=e2365] [cursor=pointer]:
+                - /url: /?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=170445849&t=board
+              - emphasis [ref=e2367]: "N"
+            - listitem "2026-03-18 18:19" [ref=e2368]: 15시간전
+            - listitem [ref=e2369]: "33"
+            - text: 
+          - list [ref=e2370]:
+            - listitem [ref=e2371]: "45"
+            - listitem [ref=e2372]:
+              - link:
+                - /url: "?category="
+              - generic:  
+              - link "SWG Nimbus 키캡, QK65MK3 키보드 예약판매 현지발송 안내 등" [ref=e2373] [cursor=pointer]:
+                - /url: /?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=170445836&t=board
+              - emphasis [ref=e2375]: "N"
+            - listitem "2026-03-18 18:18" [ref=e2376]: 15시간전
+            - listitem [ref=e2377]: "25"
+            - text: 
+          - list [ref=e2378]:
+            - listitem [ref=e2379]: "44"
+            - listitem [ref=e2380]:
+              - link:
+                - /url: "?category="
+              - generic:  
+              - link "Flatbrains NP-R 넘패드 예약판매 안내" [ref=e2381] [cursor=pointer]:
+                - /url: /?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=170271835&t=board
+            - listitem "2026-03-05 18:13" [ref=e2382]: 2026-03-05
+            - listitem [ref=e2383]: "356"
+            - text: 
+          - list [ref=e2384]:
+            - listitem [ref=e2385]: "43"
+            - listitem [ref=e2386]:
+              - link:
+                - /url: "?category="
+              - generic:  
+              - link "할인 적용 오류 관련 및 쿠폰 재발급 안내" [ref=e2387] [cursor=pointer]:
+                - /url: /?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=170021447&t=board
+            - listitem "2026-02-14 12:15" [ref=e2388]: 2026-02-14
+            - listitem [ref=e2389]: "945"
+            - text: 
+          - list [ref=e2390]:
+            - listitem [ref=e2391]: "42"
+            - listitem [ref=e2392]:
+              - link:
+                - /url: "?category="
+              - generic:  
+              - link "스웨그키 자사몰 15% 할인 이벤트 공지" [ref=e2393] [cursor=pointer]:
+                - /url: /?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=170011080&t=board
+            - listitem "2026-02-13 16:00" [ref=e2394]: 2026-02-13
+            - listitem [ref=e2395]: "1896"
+            - text: 
+          - list [ref=e2396]:
+            - listitem [ref=e2397]: "41"
+            - listitem [ref=e2398]:
+              - link:
+                - /url: "?category="
+              - generic:  
+              - link "스웨그키 설 연휴 이벤트 공지" [ref=e2399] [cursor=pointer]:
+                - /url: /?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=169959525&t=board
+            - listitem "2026-02-10 18:16" [ref=e2400]: 2026-02-10
+            - listitem [ref=e2401]: "766"
+            - text: 
+          - list [ref=e2402]:
+            - listitem [ref=e2403]: "40"
+            - listitem [ref=e2404]:
+              - link:
+                - /url: "?category="
+              - generic:  
+              - link "Hammerworks - CRP R7 키캡 예약판매 시작 안내" [ref=e2405] [cursor=pointer]:
+                - /url: /?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=169958841&t=board
+            - listitem "2026-02-10 17:40" [ref=e2406]: 2026-02-10
+            - listitem [ref=e2407]: "444"
+            - text: 
+          - list [ref=e2408]:
+            - listitem [ref=e2409]: "39"
+            - listitem [ref=e2410]:
+              - link:
+                - /url: "?category="
+              - generic:  
+              - link "QK65 MK3 완제 버전 예약판매(GB) 안내" [ref=e2411] [cursor=pointer]:
+                - /url: /?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=169875732&t=board
+            - listitem "2026-02-05 17:37" [ref=e2412]: 2026-02-05
+            - listitem [ref=e2413]: "778"
+            - text: 
+          - list [ref=e2414]:
+            - listitem [ref=e2415]: "38"
+            - listitem [ref=e2416]:
+              - link:
+                - /url: "?category="
+              - generic:  
+              - link "EVO80 [한글각인] 버전 신규 입고 안내" [ref=e2417] [cursor=pointer]:
+                - /url: /?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=169719178&t=board
+            - listitem "2026-01-28 18:31" [ref=e2418]: 2026-01-28
+            - listitem [ref=e2419]: "1125"
+            - text: 
+          - list [ref=e2420]:
+            - listitem [ref=e2421]: "37"
+            - listitem [ref=e2422]:
+              - link:
+                - /url: "?category="
+              - generic:  
+              - link "SWG Nimbus ABS 이중사출 키캡 예약판매 / SWG 키캡 라인업 출시 일정 안내" [ref=e2423] [cursor=pointer]:
+                - /url: /?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=169634054&t=board
+            - listitem "2026-01-23 16:04" [ref=e2424]: 2026-01-23
+            - listitem [ref=e2425]: "839"
+            - text: 
+        - button "글쓰기" [ref=e2428] [cursor=pointer]
+        - navigation [ref=e2429]:
+          - list [ref=e2430]:
+            - listitem [ref=e2431]:
+              - link "Previous" [ref=e2432]:
+                - /url: javascript:;
+                - generic [ref=e2433]: 
+                - generic [ref=e2434]: Previous
+            - listitem [ref=e2435]:
+              - link "1" [ref=e2436] [cursor=pointer]:
+                - /url: /?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&page=1
+            - listitem [ref=e2437]:
+              - link "2" [ref=e2438] [cursor=pointer]:
+                - /url: /?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&page=2
+            - listitem [ref=e2439]:
+              - link "3" [ref=e2440] [cursor=pointer]:
+                - /url: /?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&page=3
+            - listitem [ref=e2441]:
+              - link "4" [ref=e2442] [cursor=pointer]:
+                - /url: /?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&page=4
+            - listitem [ref=e2443]:
+              - link "5" [ref=e2444] [cursor=pointer]:
+                - /url: /?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&page=5
+            - listitem [ref=e2445]:
+              - link "Next" [ref=e2446]:
+                - /url: javascript:;
+                - generic [ref=e2447]: 
+                - generic [ref=e2448]: Next
+  - contentinfo [ref=e2449]:
+    - generic [ref=e2455]:
+      - generic [ref=e2457]:
+        - generic [ref=e2459]:
+          - generic [ref=e2460]: 상호:스웨그키
+          - generic [ref=e2461]:
+            - paragraph [ref=e2462]: "주소 : 경기도 부천시 길주로 433 네스필러 타워 201호 & 3층 스웨그키"
+            - paragraph [ref=e2463]:
+              - text: "사업자등록번호 : 2556900330"
+              - link "[사업자정보확인]" [ref=e2464] [cursor=pointer]:
+                - /url: http://www.ftc.go.kr/bizCommPop.do?wrkr_no=2556900330
+              - text: "| 통신판매업신고 : 2021-경기부천-4866호"
+            - paragraph [ref=e2465]: "대표 : 김영걸 | 개인정보관리책임자 : 김영걸"
+        - paragraph [ref=e2466]: "Help Center: 010-3012-0420 (AM9 - PM6, Lunch AM11:30 - PM12:30, Weekend and Holiday Off)"
+        - paragraph [ref=e2467]: 이메일:swagkey@naver.com
+      - list [ref=e2469]:
+        - generic [ref=e2470]:
+          - listitem [ref=e2471]:
+            - link "이용약관" [ref=e2472] [cursor=pointer]:
+              - /url: /?mode=policy
+          - listitem [ref=e2473]:
+            - link "개인정보처리방침" [ref=e2474] [cursor=pointer]:
+              - /url: /?mode=privacy
+      - generic [ref=e2475]: Copyright ⓒ 2026 스웨그키 공식 온라인 스토어 All rights reserved.
+  - iframe [ref=e2476]:
+    
+  - generic:
+    - generic:
+      - generic:
+        - link "톡톡 궁금할땐 톡톡하세요! '클릭' 하면 상담이 가능합니다. 문의하기":
+          - /url: "#"
+          - generic [ref=e2478] [cursor=pointer]:
+            - generic [ref=e2479]: 톡톡
+            - emphasis [ref=e2480]:
+              - text: 궁금할땐
+              - text: 톡톡하세요!
+            - paragraph [ref=e2481]:
+              - text: "'클릭' 하면"
+              - text: 상담이 가능합니다.
+            - strong [ref=e2482]: 문의하기
+```
